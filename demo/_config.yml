@@ -1,7 +1,7 @@
 title: Nagymaros
 description: Jekyll theme for a conference website
-baseurl: /jekyll-nagymaros
-url: https://piazzai.github.io
+baseurl: /modprod
+url: https://robbr48.github.io
 
 permalink: pretty
 theme: jekyll-nagymaros
