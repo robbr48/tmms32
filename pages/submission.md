@@ -6,7 +6,10 @@ subheadline         : ""
 teaser              : ""
 permalink           : "/submission/"
 header:
+    image: "modprod.png"
     background-color: "#ffffff"
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
 ---
 1. Open `_config.yml` and work it through, it's well documented.
 1. Add your own `logo.png` to `/assets/img/`.
