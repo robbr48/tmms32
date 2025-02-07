@@ -1,3 +1,4 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem 'jekyll-nagymaros', '~> 3.3', '>= 3.3.1'
+source "https://rubygems.org"
+gemspec
