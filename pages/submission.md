@@ -1,10 +1,10 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Getting Started in 10 Steps"
-subheadline         : "A Step-by-Step Guide"
-teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
-permalink           : "/getting-started/"
+title               : "Submission"
+subheadline         : ""
+teaser              : ""
+permalink           : "/submission/"
 header:
     background-color: "#ffffff"
 ---
