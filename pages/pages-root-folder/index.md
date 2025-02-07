@@ -4,7 +4,11 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+layout: page
+title: "Home"
+subheadline: ""
+teaser: ""
+permalink: "/"
 header:
     image: "modprod.png"
     background-color: "#ffffff"
