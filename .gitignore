@@ -1,7 +1,7 @@
-*.gem
-.bundle
-.jekyll-cache
-.sass-cache
-_site
-vendor
-Gemfile.lock
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.vscode
+**/*.swp
+env
