@@ -9,7 +9,7 @@ body {
     color: #383838;
 }
 
-.site-title::above {
+.site-title::before {
 	content: url("/assets/modprod-logo.png");
 	display: inline-block;
 	position: relative;
