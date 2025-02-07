@@ -20,6 +20,7 @@ minima:
 
 # Minima: custom header links
 header_pages:
+  - _pages/frontpage.md
   - _pages/program.md
   - _pages/proceedings.md
   - _pages/organization.md
