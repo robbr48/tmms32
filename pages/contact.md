@@ -1,9 +1,15 @@
 ---
 layout              : page
-title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
-permalink           : "/contact/"
+show_meta           : false
+title: "Registration"
+subheadline: ""
+teaser: ""
+permalink: "/registration/"
+header:
+    image: "modprod.png"
+    background-color: "#ffffff"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+
+## Header   {#label}
+
+Blabla...
