@@ -1,10 +1,10 @@
 ---
 layout              : page
 show_meta           : false
-title: "Registration"
+title: "Contact"
 subheadline: ""
 teaser: ""
-permalink: "/registration/"
+permalink: "/contact/"
 header:
     image: "modprod.png"
     background-color: "#ffffff"
