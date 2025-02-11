@@ -1,12 +1,15 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Getting Started in 10 Steps"
-subheadline         : "A Step-by-Step Guide"
-teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
-permalink           : "/getting-started/"
+title               : "Submission"
+subheadline         : ""
+teaser              : ""
+permalink           : "/submission/"
 header:
+    image: "modprod.png"
     background-color: "#ffffff"
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
 ---
 1. Open `_config.yml` and work it through, it's well documented.
 1. Add your own `logo.png` to `/assets/img/`.
