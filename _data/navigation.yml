@@ -14,4 +14,17 @@
 - title: Proceedings
   url: "/proceedings/"
   side: left
+  dropdown:
+  - title: "MODPROD 2025"
+    url: "/modprod2025/"
+  - title: "MODPROD 2024"
+    url: "/modprod2024/"
+
+- title: Organization
+  side: left
+  dropdown:
+  - title: "Center Management"
+    url: "/management/"
+  - title: "Contact"
+    url: "/contact/"
   
