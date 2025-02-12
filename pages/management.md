@@ -1,9 +1,9 @@
 ---
 layout              : page
 show_meta           : false
-title: "Center Management"
-subheadline: ""
-teaser: ""
+title               : "Center Management"
+subheadline         : ""
+teaser              : ""
 permalink: "/management/"
 ---
 
@@ -18,11 +18,11 @@ permalink: "/management/"
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}peterfritzson.jpg" alt="">
-        <p><b>Prof. Peter Fritzson</b></p><p>Vice Center Director</p><p>Linköping University, Department of Computer Science</p>
+        <p><b>Prof. Peter Fritzson</b></p><p>Vice Center Director</p><p>Link&#246;ping University, Department of Computer Science</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}robertbraun.jpg" alt="">
-        <p><b>Robert Braun</b></p><p>Workshop Chair</p><p>Linköping University, Department of Management and Engineering</p>
+        <p><b>Robert Braun</b></p><p>Workshop Chair</p><p>Link&#246;ping University, Department of Management and Engineering</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
