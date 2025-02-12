@@ -7,7 +7,8 @@ teaser              : ""
 permalink           : "/modprod2024/"
 ---
 
-## Proceedings for the 18th Workshop on Model-Based Cyber-Physical Product Development, February 6-7, 2024
+## Proceedings for the 18th MODPROD Workshop
+February 6-7, 2024
 
 ["AI for Model-Based Systems Engineering"](https://wcc.ep.liu.se/index.php/MODPROD/issue/view/36)
 
