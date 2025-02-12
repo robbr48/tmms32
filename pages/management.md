@@ -7,8 +7,6 @@ teaser              : ""
 permalink: "/management/"
 ---
 
-## Header   {#label}
-
 The MODPROD center is a competence center at Link&#246;ping University. It consists of members from academia, industry and research institutes. Aims include:
 
 - Maintaining a close dialogue between industry and academia
