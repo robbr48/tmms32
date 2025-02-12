@@ -32,6 +32,7 @@ a:link {
 
 a:visited {
     border-bottom: $grey-2;
+    color: darken( $ci-7, 30% );
 }
 
 a:hover {
