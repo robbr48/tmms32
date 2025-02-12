@@ -10,8 +10,6 @@ subheadline: ""
 teaser: ""
 permalink: "/"
 homepage: true
-header:
-    image_fullwidth: "aurora2.jpg"
 ---
 
 ## Title
