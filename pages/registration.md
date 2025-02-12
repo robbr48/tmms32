@@ -5,9 +5,6 @@ title: "Registration"
 subheadline: ""
 teaser: ""
 permalink: "/registration/"
-header:
-    image: "modprod.png"
-    background-color: "#ffffff"
 ---
 
 ## Header   {#label}

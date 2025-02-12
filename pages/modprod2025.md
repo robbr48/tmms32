@@ -5,9 +5,6 @@ title               : "MODPRPOD 2025"
 subheadline         : ""
 teaser              : ""
 permalink           : "/modprod2025/"
-header:
-    image: "modprod.png"
-    background-color: "#ffffff"
 ---
 
 # MODPROD 2025
