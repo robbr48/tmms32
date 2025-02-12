@@ -9,11 +9,6 @@ title: "Home"
 subheadline: ""
 teaser: ""
 permalink: "/"
-header:
-    image: "modprod.png"
-    background-color: "#ffffff"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
 homepage: true
 ---
 
