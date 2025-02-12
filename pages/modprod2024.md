@@ -15,7 +15,7 @@ permalink           : "/modprod2024/"
 
 #### Tutorials
 
-* Tutorial 1: Peter Fritzson, Link&#246ping University.  
+* Tutorial 1: Peter Fritzson, Link&#246;ping University.  
 Introduction to Object Oriented Modeling, Simulation, Debugging and Dynamic Optimization with Modelica using OpenModelica
 * Tutorial 3: Chris Rackauckas, Massachusetts Institute of Technology.  
 Scientific Machine Learning
