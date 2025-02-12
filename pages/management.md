@@ -13,16 +13,16 @@ permalink: "/management/"
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}niclasfock.jpg" alt="">
-        <p><b>Niclas Fock</b></p><p>Center Director</p><p>AI Sweden</p>
+        <p><b>Niclas Fock</b><br><em>Center Director</em><br>AI Sweden</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}peterfritzson.jpg" alt="">
-        <p><b>Prof. Peter Fritzson</b></p><p>Vice Center Director</p><p>Link&#246;ping University, Department of Computer Science</p>
+        <p><b>Prof. Peter Fritzson</b><br><em>Vice Center Director</em><br>Link&#246;ping University, Department of Computer Science</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}robertbraun.jpg" alt="">
-        <p><b>Robert Braun</b></p><p>Workshop Chair</p><p>Link&#246;ping University, Department of Management and Engineering</p>
+        <p><b>Robert Braun</b><br><em>Workshop Chair</em><br>Link&#246;ping University, Department of Management and Engineering</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
