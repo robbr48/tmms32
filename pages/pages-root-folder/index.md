@@ -11,7 +11,7 @@ teaser: ""
 permalink: "/"
 homepage: true
 header:
-    image_fullwidth: "aurora2..jpg"
+    image_fullwidth: "aurora2.jpg"
 ---
 
 ## Title
