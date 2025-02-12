@@ -15,24 +15,4 @@ homepage: true
 ## Title
 Blabla
 
-<!--more-->
-
-<div class="row t60">
-    <div class="medium-4 columns b30">
-        <img src="{{ site.urlimg }}turbine.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns b30">
-        <img src="{{ site.urlimg }}smartphone.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-    
-    
-    <div class="medium-4 columns b30">
-        <img src="{{ site.urlimg }}bearing.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-    
-    
-    <div class="medium-4 columns b30">
-        <img src="{{ site.urlimg }}gripen.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
+<img src="{{ site.urlimg }}frontpage.jpg" alt="">
