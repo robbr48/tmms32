@@ -84,5 +84,5 @@ February 6-7, 2024
 
 #### Session 6b 2024: Model-based Engineering
 
--   Erik Herzog, Johanna Axehill & Robert H&#344;llqvist.\
+-   Erik Herzog, Johanna Axehill & Robert H&#228;llqvist.\
     [*Excuse me Sir/Madam, which Model?*](https://wcc.ep.liu.se/index.php/MODPROD/article/view/1239)
