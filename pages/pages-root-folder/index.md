@@ -12,14 +12,13 @@ permalink: "/"
 homepage: true
 ---
 
-## Title
-Blabla
+## Welcome to MODPROD!
 
 <p align="center">
 <img src="{{ site.urlimg }}frontpage.jpg" alt="">
 </p>
 
-The Center for Model-Based Cyber-Physical Product Development (MODPROD) is an interdisciplinary research center at the Linköping University. The center involves a number of companies as well as researchers from the Department of Computer and Information Science (IDA) and the Department of Management and Engineering (IEI).
+The Center for Model-Based Cyber-Physical Product Development (MODPROD) is an interdisciplinary research center at Linköping University. The center involves a number of companies as well as researchers from the Department of Computer and Information Science (IDA) and the Department of Management and Engineering (IEI).
 
 <p align="center">
 <img src="{{ site.urlimg }}block_diagram.png" alt="">
