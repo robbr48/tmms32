@@ -1,3 +1,4 @@
+
 ---
 layout              : page
 show_meta           : false
@@ -25,7 +26,7 @@ February 6-7, 2024
 
 -   Peter Fritzson.\
     *[Welcome by the MODPROD Vice Director](https://wcc.ep.liu.se/index.php/MODPROD/article/view/1218)*
-- Keynote: Chris Rackauckas & Yingbo Ma, Massachusetts Institute of Technology.\
+-   **Keynote:** Chris Rackauckas & Yingbo Ma, Massachusetts Institute of Technology.\
     *[Connecting Scientific Machine Learning with Acausal Modeling](https://wcc.ep.liu.se/index.php/MODPROD/article/view/1219)*
 
 #### Session 2a: AI for Model-Based Engineering
@@ -53,7 +54,7 @@ February 6-7, 2024
 
 #### Session 4
 
--   Jan Bosch.\
+-   **Keynote:** Jan Bosch.\
     *[AI Engineering: A Research Agenda](https://wcc.ep.liu.se/index.php/MODPROD/article/view/1228)*
 
 #### Session 5a: Model-Based Applications
@@ -83,5 +84,5 @@ February 6-7, 2024
 
 #### Session 6b 2024: Model-based Engineering
 
--   Erik Herzog, Johanna Axehill & Robert Hällqvist.\
+-   Erik Herzog, Johanna Axehill & Robert H&#344;llqvist.\
     [*Excuse me Sir/Madam, which Model?*](https://wcc.ep.liu.se/index.php/MODPROD/article/view/1239)
