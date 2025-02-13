@@ -12,7 +12,7 @@ permalink: "/contact/"
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}jennydagberg.jpg" alt="">
-        <p><b>Niclas Fock</b><br><em>Administrator</em><br>Linköping University, IEI<br><a href="mailto:modprod-info@liu.se">modprod-info@liu.se</a><br>+46 13 281189</p>
+        <p><b>Jenny Dagberg</b><br><em>Administrator</em><br>Linköping University, IEI<br><a href="mailto:modprod-info@liu.se">modprod-info@liu.se</a><br>+46 13 281189</p>
     </div><!-- /.medium-4.columns -->
 
 <div class="flex-video">
