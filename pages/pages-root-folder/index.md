@@ -5,6 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: page-fullwidth
+sidebar: right
 title: "Home"
 subheadline: ""
 teaser: ""
