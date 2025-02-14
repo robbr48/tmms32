@@ -16,6 +16,8 @@
     url: "https://drive.google.com/file/d/1WqOpZXMrjkmj13m2LDo8ZBChupNVHOGC/view"
   - title: "OpenModelica Program"
     url: "https://openmodelica.org/events/openmodelica-workshop/2025/"
+  - title: "Keynote Speakers"
+    url: "/keynotes/"
 
 - title: Proceedings
   side: left
