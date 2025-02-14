@@ -7,28 +7,28 @@ teaser: ""
 permalink: "/workshops/"
 gallery:
     - image_url: aurora2.jpg
-      caption: Northern lights over Linköping University
+      caption: Northern lights over Link&#246;ping University
     - image_url: studenthuset.jpg
-      caption: Studenthuset at Linköping University
+      caption: Studenthuset at Link&#246;ping University
     - image_url: bhusetvinter.jpg
-      caption: Winter at Linköping Universeity
+      caption: Winter at Link&#246;ping Universeity
 ---
 
 *"*Digital Product Development and AI*"*
 
 Date: February 3-5, 2025\
-Location: **Linköping University, Sweden**
+Location: **Link&#246;ping University, Sweden**
 
 {% include gallery %}
 
 ### Venue
 
-The workshop will take place at Linköping University, Building A, Linköping, Sweden (see maps below). The city Linköping is situated in southern Sweden, 200 kilometers south of Stockholm. Linköping University is located about 3 kilometers from the city center.
+The workshop will take place at Link&#246;ping University, Building A, Link&#246;ping, Sweden (see maps below). The city Link&#246;ping is situated in southern Sweden, 200 kilometers south of Stockholm. Link&#246;ping University is located about 3 kilometers from the city center.
 
 #### Travelling
 
-Information on travelling to Linköping is available at [Visit Linköping](https://visitlinkoping.se/en/plan/travel-to-link%C3%B6ping)
+Information on travelling to Link&#246;ping is available at [Visit Link&#246;ping](https://visitlinkoping.se/en/plan/travel-to-link%C3%B6ping)
 
 #### Accomodition
 
-Information on local hotels is available at [Visit Linköping](https://visitlinkoping.se/en/plan/accommodation).
+Information on local hotels is available at [Visit Link&#246;ping](https://visitlinkoping.se/en/plan/accommodation).
