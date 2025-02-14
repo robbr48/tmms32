@@ -4,11 +4,16 @@
 
 - title: "Workshops 2025"
   side: left
+  url: "/workshops/"
   dropdown:
   - title: "Registration"
     url: "/registration/"
   - title: "Submission"
     url: "/submission/"
+  - title: "MODPROD Program"
+    url: "https://drive.google.com/file/d/1WqOpZXMrjkmj13m2LDo8ZBChupNVHOGC/view"
+  - title: "OpenModelica Program"
+    url: "https://openmodelica.org/events/openmodelica-workshop/2025/"
 
 - title: Proceedings
   side: left
