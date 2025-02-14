@@ -10,6 +10,8 @@
     url: "/registration/"
   - title: "Submission"
     url: "/submission/"
+  - title: "Call for Presentations"
+    url: "/cfp/"
   - title: "MODPROD Program"
     url: "https://drive.google.com/file/d/1WqOpZXMrjkmj13m2LDo8ZBChupNVHOGC/view"
   - title: "OpenModelica Program"
