@@ -4,8 +4,7 @@ sidebar: right
 title: "MODPROD & OpenModelica Workshops 2025"
 subheadline: ""
 teaser: ""
-permalink: "/"
-homepage: true
+permalink: "/workshops/"
 gallery:
     - image_url: aurora2.jpg
       caption: Northern lights over Linköping University
