@@ -1,4 +1,4 @@
----
+ï»¿---
 layout              : page
 sidebar             : right
 show_meta           : false
@@ -41,7 +41,7 @@ Presentation of research at the MODPROD center, *[part_1 (PELAB and RISE)](https
 
 #### Session 2a Methodologies for MBSE
 
--   Christian K&#246;nig, AlachewMengist, Carl Gamble, Jos H&#246;ll, Kenneth Lausdahl, Tom Bokhove, Etienne Brosse, Oliver M&#246;ller and Adrian Pop, TWT et al.. [*"Traceability in the Model-based Design of Cyber-Physical Systems"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/)
+-   Christian K&#246;nig, Alachew Mengist, Carl Gamble, Jos H&#246;ll, Kenneth Lausdahl, Tom Bokhove, Etienne Brosse, Oliver M&#246;ller and Adrian Pop, TWT et al.. [*"Traceability in the Model-based Design of Cyber-Physical Systems"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/)
 -   Robert H&#228;llqvist, Magnus Eek, Robert Braun and Petter Krus, LiU. [*"Automating Model Validation using FMI and OMSimulator"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk2a_hallqvist-et-al_automated-validation.pdf)
 -   Erik Herzog and &Aring;saNordling Larsson, Saab AB. [*"An Assessment of Approaches towards Integrated Enterprise PLM capabilities"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk2a_herzog-larsson_plm-integration.pdf)
 
@@ -53,7 +53,7 @@ Presentation of research at the MODPROD center, *[part_1 (PELAB and RISE)](https
 
 #### Session 4a Modelling Applications
 
--   Karim Besbes and David Jimenez Mena, Siemens.  [*"Sizing of an Electric Powertrain Using a Hybrid Model Combining Simcenter Amesim and Modelica"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk4a_besbes_powertrain-modelica-amesim.pdf)\
+-   Karim Besbes and David Jimenez Mena, Siemens. [*"Sizing of an Electric Powertrain Using a Hybrid Model Combining Simcenter Amesim and Modelica"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk4a_besbes_powertrain-modelica-amesim.pdf)\
     [*Paper: "Sizing of an Electric Powertrain Using a Hybrid Model Combining Simcenter Amesim and Modelica"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk4a_besbes_powertrain-modelica-amesim_paper.pdf)
 -   Conny Carlqvist, Volvo CE. [*"Wheel Loader Dynamic Simulations at Volvo Construction Equipment"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/)
 -   Pavan P, Puneet AC, ModeliCon India; Peter Fritzson, LiU; Gunnar Dahlb&#228;ck, Mikael Hult, GI Lift; Martin Sj&#246;lund, LiU and Sunil Shah, ModeliCon. [*"Modelica Library for Balloon Assisted Unmanned Aerial Vehicle"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk4a_pavan-et-al_modelica-ballon-assisted-uav.pdf)
@@ -62,7 +62,7 @@ Presentation of research at the MODPROD center, *[part_1 (PELAB and RISE)](https
 #### Session 4b Model-based Engineering
 
 -   Olof Sundin, Saab AB. [*"Lessons Learned from the Application of Integration Driven Development in Gripen E/F"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/)
--   Ludvig Kn&#246;&#246;s Franzén and Sofia Sch&#246;n, LiU. [*"System of Systems Approach for Search and Rescue Missions"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_franzen-schon_sos-for-sar.pdf)
+-   Ludvig Kn&#246;&#246;s Franz&eacute;n and Sofia Sch&#246;n, LiU. [*"System of Systems Approach for Search and Rescue Missions"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_franzen-schon_sos-for-sar.pdf)
 -   Robert Braun, LiU. [*"Towards Numerically Stable Co-simulation of Stiff Mechanical Systems with FMI 3.0"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk4b_braun_fmi3-numerical-stability.pdf)
 -   Erik Herzog, Johanna Axehill, Magnus Eek and Joacim Seger, Saab AB. [*"On the Relative Importance of Modeling in CPS Development"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk4b_herzog-et-al_importance-of-modeling-in-cpsdev.pdf)
 
@@ -70,10 +70,10 @@ Presentation of research at the MODPROD center, *[part_1 (PELAB and RISE)](https
 
 -   Petter Krus, LiU. [*"Mathematical Modelling of Human Pilot Performance"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk6a_krus_mathematical-pilot-model.pdf)
 -   Joacim K&#228;mpe, Saab AB. [*"Modelling a Jet Fighter as Services and Features"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/)
--   Athanasios Papageorgiou, Kristian Amadori, Christopher Jouannet and Johan &Ouml;lvander, LiU. [*"Development and Integration of System-of-Systems Models for Unmanned Aircraft "*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk6a_papageorgiou_sose-for-uav.pdf)
+-   Athanasios Papageorgiou, Kristian Amadori, Christopher Jouannet and Johan &Ouml;lvander, LiU. [*"Development and Integration of System-of-Systems Models for Unmanned Aircraft"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk6a_papageorgiou_sose-for-uav.pdf)
 
 #### Session 6b Model-Based Engineering
 
 -   Joao Perreira and Asko Ellman, Tampere University, Finland. [*"From CAD to Physics-based Virtual Prototypes: Framework for Real-time Virtual Simulation of Virtual Prototypes"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/06/modprod20_talk6b_ellman_cad-to-vrtual-prototypes.pdf)
--   Mongi Ben Gaid, Abir El Feki, Bruno Lety and Nicolas Pernet, IFP, France. [*"xDash : Rapid-prototyping of Cyber-physical Systems in Web Browser "*](https://modprodblog.wordpress.com/wp-content/uploads/2020/05/modprod20_talk6b_gaid-et-al_xdash-rapid-prototyping.pdf)
+-   Mongi Ben Gaid, Abir El Feki, Bruno Lety and Nicolas Pernet, IFP, France. [*"xDash : Rapid-prototyping of Cyber-physical Systems in Web Browser"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/05/modprod20_talk6b_gaid-et-al_xdash-rapid-prototyping.pdf)
 -   Petter Krus and Robert Braun, LiU. [*"Activity Diagrams with Bilateral Delay Lines"*](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/)

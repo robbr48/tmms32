@@ -40,4 +40,4 @@ Johanna Axehill, &#197;sa Nordling Larsson & Erik Herzog. [Don't Look Outside th
 Session 6b: Cyber-physical Systems
 ----------------------------------
 
--   Ludvig Kn&#246;&#246;s Franzén. [Symbolic Regression with Genetic Algorithms for Early Conceptual Design of Helicopters](https://wcc.ep.liu.se/index.php/MODPROD/article/view/1064)
+-   Ludvig Kn&#246;&#246;s Franz&eacute;n. [Symbolic Regression with Genetic Algorithms for Early Conceptual Design of Helicopters](https://wcc.ep.liu.se/index.php/MODPROD/article/view/1064)
