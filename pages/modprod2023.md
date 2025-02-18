@@ -8,7 +8,7 @@ teaser              : ""
 permalink           : "/modprod2023/"
 ---
 
-## Proceedings for the 17th MODPROD Workshop 2023, February 7-8, Linköping University
+## Proceedings for the 17th MODPROD Workshop 2023, February 7-8, Link&#246;ping University
 February 6-7, 2024
 
 
@@ -31,7 +31,7 @@ February 6-7, 2024
 
 #### Session 5b: Model-based Engineering
 
-Johanna Axehill, Åsa Nordling Larsson & Erik Herzog. [Don't Look Outside the Box -- Configuration Management Meeting a 4-box Development Model](https://wcc.ep.liu.se/index.php/MODPROD/article/view/1062)
+Johanna Axehill, &#197;sa Nordling Larsson & Erik Herzog. [Don't Look Outside the Box -- Configuration Management Meeting a 4-box Development Model](https://wcc.ep.liu.se/index.php/MODPROD/article/view/1062)
 
 #### Session 6a: Applications for Model-based Engineering
 
@@ -40,4 +40,4 @@ Johanna Axehill, Åsa Nordling Larsson & Erik Herzog. [Don't Look Outside the Box
 Session 6b: Cyber-physical Systems
 ----------------------------------
 
--   Ludvig Knöös Franzén. [Symbolic Regression with Genetic Algorithms for Early Conceptual Design of Helicopters](https://wcc.ep.liu.se/index.php/MODPROD/article/view/1064)
+-   Ludvig Kn&#246;&#246;s Franzén. [Symbolic Regression with Genetic Algorithms for Early Conceptual Design of Helicopters](https://wcc.ep.liu.se/index.php/MODPROD/article/view/1064)

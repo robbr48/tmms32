@@ -1,4 +1,4 @@
----
+ï»¿---
 layout              : page
 sidebar             : right
 show_meta           : false
@@ -8,7 +8,7 @@ teaser              : ""
 permalink           : "/modprod2021/"
 ---
 
-## Proceedings of the 15th MODPROD Workshop 2021, February 3-4, Linköping University
+## Proceedings of the 15th MODPROD Workshop 2021, February 3-4, Link&#246;ping University
 
 ["Digital engineering for a resource efficient and circular industry"](https://wcc.ep.liu.se/index.php/MODPROD/issue/view/28)
 
@@ -19,11 +19,11 @@ Fock.
 
 ### Tutorials
 
--   **Tutorial 1:** Peter Fritzson and Adrian Pop, Linköping University.\
+-   **Tutorial 1:** Peter Fritzson and Adrian Pop, Link&#246;ping University.\
     *["Introduction to Object Oriented Modeling, Simulation, Debugging and Introduction to Object Oriented Modeling, Simulation, Debugging and Sensitivity Analysis/Optimization with Modelica using OpenModelica" (link)](https://wcc.ep.liu.se/index.php/MODPROD/article/view/720)*
--   **Tutorial 2:** Andreas Heuermann and Lennart Ochel, Linköping University.\
+-   **Tutorial 2:** Andreas Heuermann and Lennart Ochel, Link&#246;ping University.\
     *["FMI for Composite Modeling, Co-simulation and Model Exchange"](https://wcc.ep.liu.se/index.php/MODPROD/article/view/721)*
--   **Tutorial 3:** Robert Hällqvist and Ludvig Knöös Franzén, SAAB AB and Linköping University\
+-   **Tutorial 3:** Robert H&#228;llqvist and Ludvig Kn&#246;&#246;s FranzÃ©n, SAAB AB and Link&#246;ping University\
     *["Connecting Aircraft Concept Development to Systems Simulation"](https://wcc.ep.liu.se/index.php/MODPROD/article/view/722)*
 
 ### Keynote Presentations
@@ -76,10 +76,10 @@ Fock.
 
 #### Session 5a: Co-simulation and Tool Interoperability
 
--   Ludvig Knöös Franzen and Robert Hällqvist. [*"Hydrogen Aircaft Development Applying Co-Simulation with Modelica and FMI" (link)*](https://wcc.ep.liu.se/index.php/MODPROD/article/view/740)
+-   Ludvig Kn&#246;&#246;s Franzen and Robert H&#228;llqvist. [*"Hydrogen Aircaft Development Applying Co-Simulation with Modelica and FMI" (link)*](https://wcc.ep.liu.se/index.php/MODPROD/article/view/740)
 -   Joseph Hainsworth, Gustav Rydholm and Linnea Sund. [*"Development of a Co-Simulation Methodology for Predicting the Behavior of Complex Hydraulic Systems" (link)*](https://wcc.ep.liu.se/index.php/MODPROD/article/view/741)
 
 #### Session 5b: Applications for Model-Based Engineering
 
--   Zoltán Rési, Shashank Sharma and Szabolcs Tóth. [*"Model-based robot design in Modelica" (link)*](https://wcc.ep.liu.se/index.php/MODPROD/article/view/742)
--   JØystein Bjelland and Robin T. Bye. [*"Computer-Haptic Assisted Orthopaedic Surgery" (link)*](https://wcc.ep.liu.se/index.php/MODPROD/article/view/743)
+-   Zolt&aacute;n R&eacute;si, Shashank Sharma and Szabolcs TÃ³th. [*"Model-based robot design in Modelica" (link)*](https://wcc.ep.liu.se/index.php/MODPROD/article/view/742)
+-   J&oslash;ystein Bjelland and Robin T. Bye. [*"Computer-Haptic Assisted Orthopaedic Surgery" (link)*](https://wcc.ep.liu.se/index.php/MODPROD/article/view/743)

@@ -8,7 +8,7 @@ teaser              : ""
 permalink           : "/modprod2022/"
 ---
 
-## Proceedings of the 16th MODPROD Workshop 2022, February 1-2, Linköping University
+## Proceedings of the 16th MODPROD Workshop 2022, February 1-2, Link&#246;ping University
 
 "Model-based engineering for remote collaboration"
 
