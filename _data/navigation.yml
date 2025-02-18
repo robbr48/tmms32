@@ -26,6 +26,14 @@
     url: "/modprod2025/"
   - title: "MODPROD 2024"
     url: "/modprod2024/"
+  - title: "MODPROD 2023"
+    url: "/modprod2023/"
+  - title: "MODPROD 2022"
+    url: "/modprod2022/"
+  - title: "MODPROD 2021"
+    url: "/modprod2021/"    
+  - title: "MODPROD 2020"
+    url: "/modprod2020/"    
 
 - title: Organization
   side: left
