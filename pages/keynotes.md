@@ -28,6 +28,6 @@ permalink: "/keynotes/"
     <i>"Model-Driven Engineering of Digital Twins"</i>
   </div>
   <div style="float: right; margin-right 1em;">
-      <img src="{{ site.urlimg }}/manuelwimmer.jpg" alt="" width="100%">
+      <img src="{{ site.urlimg }}/manuelwimmer.jpg" alt="" width="147">
   </div>
 </div>
