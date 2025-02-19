@@ -23,9 +23,11 @@ permalink: "/keynotes/"
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
+  <p vertical-align="middle">
       <b>Prof. Manuel Wimmer</b><br>
     Johannes Kepler University Linz.<br>
     <i>"Model-Driven Engineering of Digital Twins"</i>
+	</p>
   </div>
   <div>
       <img src="{{ site.urlimg }}/manuelwimmer.jpg" alt="" width="147" hspace="20" vertical-align="middle">
