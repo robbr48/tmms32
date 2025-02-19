@@ -8,8 +8,7 @@ teaser              : ""
 permalink           : "/modprod2023/"
 ---
 
-## Proceedings for the 17th MODPROD Workshop 2023, February 7-8, Link&#246;ping University
-February 6-7, 2024
+## Proceedings for the 17th MODPROD Workshop, February 7-8, 2023
 
 
 ["Trusting the models for complex systems"](https://wcc.ep.liu.se/index.php/MODPROD/issue/view/34)

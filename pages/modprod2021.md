@@ -8,7 +8,7 @@ teaser              : ""
 permalink           : "/modprod2021/"
 ---
 
-## Proceedings of the 15th MODPROD Workshop 2021, February 3-4, Link&#246;ping University
+## Proceedings of the 15th MODPROD Workshop, February 3-4, 2021
 
 ["Digital engineering for a resource efficient and circular industry"](https://wcc.ep.liu.se/index.php/MODPROD/issue/view/28)
 

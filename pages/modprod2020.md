@@ -8,7 +8,7 @@ teaser              : ""
 permalink           : "/modprod2020/"
 ---
 
-## Proceedings of the 14th MODPROD Workshop 2020, February 4-5, Link&#246;ping University
+## Proceedings of the 14th MODPROD Workshop, February 4-5, 2020
 
 "Digital Meets Reality"
 
