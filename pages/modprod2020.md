@@ -62,7 +62,7 @@ Presentation of research at the MODPROD center, *[part_1 (PELAB and RISE)]({{ si
 #### Session 4b Model-based Engineering
 
 -   Olof Sundin, Saab AB. [*"Lessons Learned from the Application of Integration Driven Development in Gripen E/F"*]({{ site.baseurl }}/proceedings/2020/)
--   Ludvig Kn&#246;&#246;s Franz&eacute;n and Sofia Sch&#246;n, LiU. [*"System of Systems Approach for Search and Rescue Missions"*]({{ site.baseurl }}/proceedings/2020/modprod20_franzen-schon_sos-for-sar.pdf)
+-   Ludvig Kn&#246;&#246;s Franz&eacute;n and Sofia Sch&#246;n, LiU. [*"System of Systems Approach for Search and Rescue Missions"*](https://liuonline.sharepoint.com/:b:/s/Team_Modprod2/EaRkifpiRx5KglParsKjdwoBdep94uXqvQ1FpIYQ8Htm0Q?e=PwxttG)
 -   Robert Braun, LiU. [*"Towards Numerically Stable Co-simulation of Stiff Mechanical Systems with FMI 3.0"*]({{ site.baseurl }}/proceedings/2020/modprod20_talk4b_braun_fmi3-numerical-stability.pdf)
 -   Erik Herzog, Johanna Axehill, Magnus Eek and Joacim Seger, Saab AB. [*"On the Relative Importance of Modeling in CPS Development"*]({{ site.baseurl }}/proceedings/2020/modprod20_talk4b_herzog-et-al_importance-of-modeling-in-cpsdev.pdf)
 
