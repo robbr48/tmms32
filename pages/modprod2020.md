@@ -1,4 +1,4 @@
-﻿---
+---
 layout              : page
 sidebar             : right
 show_meta           : false
