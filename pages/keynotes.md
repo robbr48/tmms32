@@ -50,5 +50,5 @@ permalink: "/keynotes/"
     Johannes Kepler University Linz.<br>
     <i>"Model-Driven Engineering of Digital Twins"</i></p>
     </div>
-	<img src="{{ site.urlimg }}/manuelwimmer.jpg" alt="" style="width: 147; height: auto;">
+	<img src="{{ site.urlimg }}/manuelwimmer.jpg" alt="" width="147" style="width: 147; height: auto;">
 </div>
