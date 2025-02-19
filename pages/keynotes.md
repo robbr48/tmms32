@@ -10,7 +10,7 @@ permalink: "/keynotes/"
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="{{ site.urlimg }}/perolofmarklund.jpg" alt="" width="30%">
+    <img src="{{ site.urlimg }}/perolofmarklund.jpg" alt="">
   </div>
   <div>
       <b>Per-Olof Marklund</b><br>
@@ -21,13 +21,13 @@ permalink: "/keynotes/"
 
 
 
-<div class="row">
-  <div class="small-6 columns">
+<div style="clear: both;">
+  <div>
       <b>Prof. Manuel Wimmer</b><br>
     Johannes Kepler University Linz.<br>
     <i>"Model-Driven Engineering of Digital Twins"</i>
   </div>
-  <div class="small-6 columns">
+  <div style="float: right; margin-right 1em;">
       <img src="{{ site.urlimg }}/manuelwimmer.jpg" alt="" width="100%">
   </div>
 </div>
