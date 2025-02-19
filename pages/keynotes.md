@@ -7,9 +7,10 @@ teaser: ""
 permalink: "/keynotes/"
 ---
 
-<div class="row">
-  <div>
-      <img src="{{ site.urlimg }}/perolofmarklund.jpg" alt="" width="3%">
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="{{ site.urlimg }}/perolofmarklund.jpg" alt="" width="30%">
   </div>
   <div>
       <b>Per-Olof Marklund</b><br>
@@ -17,6 +18,7 @@ permalink: "/keynotes/"
     <i>"Digital Engineering at Saab – history and future"</i>
   </div>
 </div>
+
 
 
 <div class="row">
