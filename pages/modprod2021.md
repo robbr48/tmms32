@@ -8,4 +8,4 @@ teaser              : ""
 permalink           : "/modprod2021/"
 ---
 
-## Proceedings of the 15th MODPROD Workshop 2021, February 3-4, Link&#246;ping University
+## Proceedings for the 15th MODPROD Workshop 2021, February 3-4, Link&#246;ping University
