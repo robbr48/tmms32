@@ -1,4 +1,4 @@
----
+﻿---
 layout              : page
 sidebar             : right
 show_meta           : false
@@ -15,7 +15,7 @@ permalink           : "/modprod2020/"
 ### MODPROD Center Presentation
 
 Welcome by the organizers and the MODPROD center director.\
-Presentation of research at the MODPROD center, *[part_1 (PELAB and RISE)](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk1_fritzson_research-at-modprod-centre.pdf)* by Peter Fritzson et al., [part_2 (RISE)](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk1_fock_rise-research.pdf) by Niklas Fock and\
+Presentation of research at the MODPROD center, *[part_1 (PELAB and RISE)]({{ site.baseurl }}/proceedings/2020/modprod20_talk1_fritzson_research-at-modprod-centre.pdf)* by Peter Fritzson et al., [part_2 (RISE)](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_talk1_fock_rise-research.pdf) by Niklas Fock and\
 *[part_3 (Machine Design)](https://modprodblog.wordpress.com/wp-content/uploads/2020/04/modprod20_olvander_modprod-reserach-at-maskin.pdf)* by Johan &#246;lvander.
 
 ### Tutorials
