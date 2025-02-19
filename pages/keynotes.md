@@ -8,10 +8,10 @@ permalink: "/keynotes/"
 ---
 
 <div class="row">
-  <div class="small-6 columns">
-      <img src="{{ site.urlimg }}/perolofmarklund.jpg" alt="" width="100%">
+  <div>
+      <img src="{{ site.urlimg }}/perolofmarklund.jpg" alt="" width="3%">
   </div>
-  <div class="small-6 columns">
+  <div>
       <b>Per-Olof Marklund</b><br>
     Saab Aeronautics<br>
     <i>"Digital Engineering at Saab – history and future"</i>
