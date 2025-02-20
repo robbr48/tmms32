@@ -1,5 +1,6 @@
 ---
 layout              : page
+sidebar             : right
 show_meta           : false
 title               : "Registration"
 subheadline         : ""
@@ -10,4 +11,4 @@ permalink           : "/registration/"
 
 ## Header   {#label}
 
-Blabla...
+
