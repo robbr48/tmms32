@@ -34,6 +34,12 @@
     url: "/modprod2021/"
   - title: "MODPROD 2020"
     url: "/modprod2020/"
+  - title: "MODPROD 2019"
+    url: "/modprod2019/"
+  - title: "MODPROD 2018"
+    url: "https://wcc.ep.liu.se/index.php/MODPROD/issue/view/13"
+  - title: "MODPROD 2017"
+    url: "https://wcc.ep.liu.se/index.php/MODPROD/issue/view/20"
 
 - title: Organization
   side: left
