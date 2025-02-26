@@ -16,7 +16,7 @@ permalink: "/cfp/"
 Linköping University
 
 **Deadline:**\
-**Deadline for submissions of abstracts and draft presentations/papers: Nov 30, 2024
+Deadline for submissions of abstracts and draft presentations/papers: Nov 30, 2024
 
 In cooperation with IEEE Computer Society Swedish Chapter
 
