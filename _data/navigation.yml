@@ -20,6 +20,7 @@
     url: "/keynotes/"
 
 - title: Proceedings
+  url: ""
   side: left
   dropdown:
   - title: "MODPROD 2025"
