@@ -30,6 +30,9 @@
               {% if link.url contains 'http' %}
                 {% assign domain = '' %}
                 {% assign _baseurl = '' %}
+              {% elsif link.url = '' %}
+                {% assign domain = '' %}
+                {% assign _baseurl = '' %}
               {% elsif link.url == '#' %}
                 {% assign domain = '' %}
                 {% assign _baseurl = site.baseurl %}
