@@ -17,10 +17,8 @@ Answer
 
 </details>
 
-<details>
-<summary>
-Solution
-</summary>
+Solution<details>
+
 An ODE is linear if it satisfies $f(x_1+x_2) = f(x_1)+f(x_2)$.
 
 **Equation 1:**
