@@ -7,7 +7,9 @@ Which of he following ODE equations are linear?
 3. $2\dot{x}-5x^2 = 0$
 
 <details>
-<summary>Answer</summary>
+<summary>
+Answer
+</summary>
 
 1. Non-linear
 2. Linear
@@ -16,7 +18,9 @@ Which of he following ODE equations are linear?
 </details>
 
 <details>
-<summary>Solution</summary>
+<summary>
+Solution
+</summary>
 An ODE is linear if it satisfies $f(x_1+x_2) = f(x_1)+f(x_2)$.
 
 **Equation 1:**
