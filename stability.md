@@ -25,10 +25,10 @@ Forward Euler is stable if $|1-h\lambda|<1$, where $\lambda$ is the worst-case e
 
 Compute the Eigenvalues:
 
-$\mathbf{A}-\mathbf{I}\lambda = 0 \Rightarrow$
+$\det(\mathbf{A}-\mathbf{I}\lambda) = 0 \Rightarrow$
 
 $\lambda^2 +4\lambda +1 = 0\Rightarrow \begin{cases}\lambda_1=-1\\\ \lambda_2=-3\end{cases}$
 
-Worst case is $lambda=-3$, which yields $0<h<\dfrac{2}{3}$.
-</summary>
+Worst case is $\lambda=-3$, which yields $0<h<\dfrac{2}{3}$.
+</details>
 
