@@ -27,7 +27,7 @@ Compute the Eigenvalues:
 
 $\mathbf{A}-\mathbf{I}\lambda = 0 \Rightarrow$
 
-$\lambda^2 +4\lambda +1 = 0\Rightarrow \begin{cases}\lambda_1=-1\\ \lambda_2=-3\end{cases}$
+$\lambda^2 +4\lambda +1 = 0\Rightarrow \begin{cases}\lambda_1=-1\\\ \lambda_2=-3\end{cases}$
 
 Worst case is $lambda=-3$, which yields $0<h<\dfrac{2}{3}$.
 </summary>
