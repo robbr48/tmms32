@@ -14,7 +14,7 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   - linearity.md
 
-theme: github-pages-minimal
+theme: jekyll-theme-tactile
 
 markdown: kramdown
 kramdown:
