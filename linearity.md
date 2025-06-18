@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 # [TMMS32](./README.md)
 [Next Task](./orderreduction.md)
 

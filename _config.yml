@@ -19,3 +19,16 @@ theme: jekyll-theme-tactile
 markdown: kramdown
 kramdown:
   parse_block_html: true
+
+navigation:
+  - text: 1. Linearity
+    internal: true
+    url: ./linearity
+  - text: 2. Order Reduction
+    internal: true
+    url: ./orderreduction   
+  - text: 3. Solvability
+    internal: true
+    url: ./solvability.md
+  - text: 4. Stability
+    url: ./stability.md
