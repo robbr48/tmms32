@@ -2,12 +2,12 @@
 [Previous Task](./linearity.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Next Task](./solvability.md)
 ## Damping
 
-<img src="assets/images/tanks.png" width="500">
-
 Which of the following ODE systems are over-damped, under-damped or critically damped?
 
-1. $\begin{bmatrix}\dot{x}\_1 \\\ \dot{x}\_2\end{bmatrix} = \begin{bmatrix}-2 & 1 \\\ -3 & -4\end{bmatrix}\begin{bmatrix}x_1 \\\ x_2\end{bmatrix}$
-2. $\begin{bmatrix}\dot{x}\_1 \\\ \dot{x}\_2\end{bmatrix} = \begin{bmatrix} -2 & 1 \\\ 0 & -2\end{bmatrix}\begin{bmatrix}x_1 \\\ x_2\end{bmatrix}$
+1. $\begin{bmatrix}\dot{x}\_1 \\\ \dot{x}\_2\end{bmatrix} = \begin{bmatrix}-2 & 1 \\\ -3 & -4\end{bmatrix}\begin{bmatrix}x_1 \\\ x_2\end{bmatrix}$\
+
+2. $\begin{bmatrix}\dot{x}\_1 \\\ \dot{x}\_2\end{bmatrix} = \begin{bmatrix} -2 & 1 \\\ 0 & -2\end{bmatrix}\begin{bmatrix}x_1 \\\ x_2\end{bmatrix}$\
+
 3. $\begin{bmatrix}\dot{x}\_1 \\\ \dot{x}\_2\end{bmatrix} = \begin{bmatrix} -2 & 1 \\\ 1 & -2\end{bmatrix}\begin{bmatrix}x_1 \\\ x_2\end{bmatrix}$
 
 <details>
