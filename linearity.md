@@ -17,7 +17,10 @@ Which of he following ODE equations are linear?
 </details>
 
 <details>
-<summary>Solution
+<summary>
+  
+#### Solution
+
 </summary>
 An ODE is linear if it satisfies $f(x_1+x_2) = f(x_1)+f(x_2)$.
 
