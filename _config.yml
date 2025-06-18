@@ -38,3 +38,5 @@ navigation:
     url: ./truncationerror
   - text: 7. Error Estimation
     url: ./errorestimation
+  - text: 8. Stability Region
+    url: ./stabilityregion
