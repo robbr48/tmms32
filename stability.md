@@ -4,7 +4,7 @@
 
 The ODE system
 
-$\dot{x} = \begin{bmatrix}-4 & 1 \\ -1 & 0\end{bmatrix}x = 0$
+$\dot{x} = \begin{bmatrix}-4 & 1 \\\ -1 & 0\end{bmatrix}x = 0$
 
 is simulated using the forward Euler method. 
 
