@@ -29,6 +29,6 @@ navigation:
     url: ./orderreduction   
   - text: 3. Solvability
     internal: true
-    url: ./solvability.md
+    url: ./solvability
   - text: 4. Stability
-    url: ./stability.md
+    url: ./stability
