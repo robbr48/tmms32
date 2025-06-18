@@ -28,7 +28,7 @@ $\dot{z}=-\dfrac{K\rho g}{A_1}z-\dfrac{1}{\sqrt{2}A_1}q_{in}$
 </summary>
 We can simplify the system and write it in matrix form:
 
-$\mathbf{E}\begin{bmatrix}\dot{h}_1 \\\ \dot{h}_2\end{bmatrix}+\mathbf{A}\begin{bmatrix}h_1\\\h_2\end{bmatrix}+\mathbf{B}\begin{bmatrix}q_{in}\end{bmatrix}$
+$\mathbf{E}\begin{bmatrix}\dot{h}\_1 \\\ \dot{h}\_2\end{bmatrix}+\mathbf{A}\begin{bmatrix}h_1\\\h\_2\end{bmatrix}+\mathbf{B}\begin{bmatrix}q\_{in}\end{bmatrix}$
 
 $\mathbf{E}= \begin{bmatrix} 1 & 0 \\\ 0 & 1\end{bmatrix}$
 
