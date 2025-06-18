@@ -1,6 +1,5 @@
 # [TMMS32](./README.md)
-[Previous Task](./linearity.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Next Task](./solvability.md)
-## Stability
+## 4. Stability
 
 The ODE system
 

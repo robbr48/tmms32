@@ -1,6 +1,5 @@
 # [TMMS32](./README.md)
-[Previous Task](./orderreduction.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Next Task](./README.md)
-## Solvability
+## 3. Solvability
 
 Consider the following DAE:
 

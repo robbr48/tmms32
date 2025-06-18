@@ -32,3 +32,5 @@ navigation:
     url: ./solvability
   - text: 4. Stability
     url: ./stability
+  - text: 5. Damping
+    url: ./damping

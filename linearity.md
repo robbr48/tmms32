@@ -3,9 +3,8 @@ title-heading: false
 ---
 
 # [TMMS32](./README.md)
-[Next Task](./orderreduction.md)
 
-## Linearity
+## 1. Linearity
 Which of he following ODE equations are linear?
 
 1. $2\dot{x}+10\sin{(x)} = 0$

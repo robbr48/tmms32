@@ -1,6 +1,5 @@
 # [TMMS32](./README.md)
-[Previous Task](./linearity.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [Next Task](./solvability.md)
-## Order Reduction
+## 2. Order Reduction
 
 <img src="assets/images/tanks.png" width="500">
 
@@ -30,6 +29,8 @@ We can simplify the system and write it in matrix form:
 
 $\mathbf{E}\begin{bmatrix}\dot{h}\_1 \\\ \dot{h}\_2\end{bmatrix}+\mathbf{A}\begin{bmatrix}h_1\\\h\_2\end{bmatrix}+\mathbf{B}\begin{bmatrix}q\_{in}\end{bmatrix}$
 
+where
+
 $\mathbf{E}= \begin{bmatrix} 1 & 0 \\\ 0 & 1\end{bmatrix}$
 
 $\mathbf{A}= \begin{bmatrix} -\dfrac{K\rho g}{A_1} & \dfrac{K\rho g}{A_2} \\\ \dfrac{K\rho g}{A_2} & -2\dfrac{K\rho g}{A_2}\end{bmatrix}$
@@ -38,7 +39,7 @@ $\mathbf{B} = \begin{bmatrix}\dfrac{1}{A_1}\\\0\end{bmatrix}$
 
 Note that $\mathbf{E}$ is not singular, so this is an ODE and not a DAE system. Introduce coordinate reduction matrix $\mathbf{V}$:
 
-$\begin{bmatrix}h_1\\\h_2\end{bmatrix}\approx\mathbf{V}z, \mathbf{V}\in\mathbb{R}^{2\times 1}$
+$\begin{bmatrix}h_1\\\h_2\end{bmatrix}\approx\mathbf{V}z,\quad \mathbf{V}\in\mathbb{R}^{2\times 1}$
 
 Assuming $h_1\approx h_2 \Rightarrow \mathbf{V}=\dfrac{1}{\sqrt{2}}\begin{bmatrix}1\\\1\end{bmatrix}$
 
