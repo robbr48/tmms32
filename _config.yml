@@ -34,3 +34,5 @@ navigation:
     url: ./stability
   - text: 5. Damping
     url: ./damping
+  - text: 6. Truncation Error
+    url: ./truncationerror

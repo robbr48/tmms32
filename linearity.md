@@ -1,9 +1,3 @@
----
-title-heading: false
----
-
-# [TMMS32](./README.md)
-
 ## 1. Linearity
 Which of he following ODE equations are linear?
 

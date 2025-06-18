@@ -1,4 +1,3 @@
-# [TMMS32](./README.md)
 ## 2. Order Reduction
 
 <img src="assets/images/tanks.png" width="500">

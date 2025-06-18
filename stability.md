@@ -1,4 +1,3 @@
-# [TMMS32](./README.md)
 ## 4. Stability
 
 The ODE system

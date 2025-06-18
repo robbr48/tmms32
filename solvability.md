@@ -1,4 +1,3 @@
-# [TMMS32](./README.md)
 ## 3. Solvability
 
 Consider the following DAE:
