@@ -18,7 +18,7 @@ Answer
 </details>
 
 <details>
-<summary><span>Solution</span>
+<summary>Solution
 </summary>
 An ODE is linear if it satisfies $f(x_1+x_2) = f(x_1)+f(x_2)$.
 
@@ -47,3 +47,5 @@ $f(x_1) + f(x_2) = 2\dot{x}_1-5x_1^2 + 2\dot{x}_2-5x_2^2 $
 Not linear, because $f(x_1+x_2) \ne f(x_1) + f(x_2)$.
 
 </details>
+
+{{ host | markdownify | remove: '<p>' | remove: '</p>' }}
