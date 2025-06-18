@@ -36,3 +36,5 @@ navigation:
     url: ./damping
   - text: 6. Truncation Error
     url: ./truncationerror
+  - text: 7. Error Estimation
+    url: ./errorestimation

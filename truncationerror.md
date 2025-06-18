@@ -1,4 +1,4 @@
-## 5. Truncation Error
+## 6. Truncation Error
 
 Consider the following ODE:
 

@@ -1,0 +1,40 @@
+## 7. Truncation Error
+
+Consider the following ODE:
+
+$\begin{cases}\dot{x}(t)=-3x(t) \\\ x(0)=x\_0=1\end{cases}$
+
+
+The model is simulated using forward Euler method with a step size of $h=0.2 \text{ s}$.
+
+*Estimate* the local truncation error of the first step.
+
+<details>
+<summary>
+#### Answer
+</summary>
+$\hat{\tau}\_1 = 0.18$
+</details>
+
+<details>
+<summary>
+#### Solution
+</summary>
+Euler integration becomes:
+
+$x\_{n+1} = x\_n + h\cdot(-3x\_n)$
+
+Integration error from each step is $\tau(h)=ch^2. We first integrate one single step. This yields:
+
+$y^*\_{n+1} = 0.4 + ch^2\quad(1)$,
+
+where c is a constant.
+
+Then we integrate two half steps:
+
+$y^*\_{n+1} = 0.49 + c\left(\dfrac{h}{2}\right)^2 + c\left(\dfrac{h}{2}\right)^2 = 0.49 + \dfrac{ch^2}{2}\quad(2)$,
+
+Combining equation (1) and (2) yields:
+
+$0.49-0.4 = \dfrac{ch^2}{2}\Rightarrow \tau = ch^2 = 2(0.49-0.4) = 0.18$
+</details>
