@@ -1,4 +1,6 @@
-# TMMS32
+# [TMMS32](./README.md)
+[Next Task](./orderreduction.md)
+
 ## Linearity
 Which of he following ODE equations are linear?
 
@@ -7,7 +9,8 @@ Which of he following ODE equations are linear?
 3. $2\dot{x}-5x^2 = 0$
 
 <details>
-<summary>Answer
+<summary>
+Answer
 </summary>
 
 1. Non-linear
@@ -17,7 +20,7 @@ Which of he following ODE equations are linear?
 </details>
 
 <details>
-<summary>#### Solution
+<summary>Solution
 </summary>
 An ODE is linear if it satisfies $f(x_1+x_2) = f(x_1)+f(x_2)$.
 
@@ -46,5 +49,3 @@ $f(x_1) + f(x_2) = 2\dot{x}_1-5x_1^2 + 2\dot{x}_2-5x_2^2 $
 Not linear, because $f(x_1+x_2) \ne f(x_1) + f(x_2)$.
 
 </details>
-
-{{ host | markdownify | remove: '<p>' | remove: '</p>' }}
