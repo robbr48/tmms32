@@ -22,9 +22,9 @@ $\hat{\tau}\_1 = 0.18$
 </summary>
 Euler integration becomes:
 
-$x\_{n+1} = x\_n + h\cdot(-3x\_n)$
+$x\_{n+1} = x\_n + h\cdot(-3x\_n) + ch^2$
 
-Integration error from each step is $\tau(h)=ch^2. We first integrate one single step. This yields:
+Integration error from each step is $\tau_n=ch^2$. We first integrate one single step. This yields:
 
 $y^*\_{n+1} = 0.4 + ch^2\quad(1)$,
 
@@ -36,5 +36,5 @@ $y^*\_{n+1} = 0.49 + c\left(\dfrac{h}{2}\right)^2 + c\left(\dfrac{h}{2}\right)^2
 
 Combining equation (1) and (2) yields:
 
-$0.49-0.4 = \dfrac{ch^2}{2}\Rightarrow \tau = ch^2 = 2(0.49-0.4) = 0.18$
+$0.49-0.4 = \dfrac{ch^2}{2}\Rightarrow \tau_1 = ch^2 = 2(0.49-0.4) = 0.18$
 </details>
