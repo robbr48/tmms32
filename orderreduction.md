@@ -8,7 +8,7 @@ Water flows into a tank, which is connected to another tank equipped with an out
 
 $q_1=K(\rho g h_1 - \rho g h_2)$\
 $q_2=K\rho g h_2$\
-$\dot{h}_1=\dfrac{q_{in}-q_1}{A_1}$\
+$\dot{h}\_1=\dfrac{q_{in}-q_1}{A_1}$\
 $\dot{h}_2=\dfrac{q_1-q_2}{A_2}$
 
 Under specific circumstances we can assume that $h_1\approx h_2$. \
