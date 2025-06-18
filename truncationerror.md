@@ -14,7 +14,7 @@ Compue the *local truncation error* of the first step and the *global truncation
 
 <details>
 <summary>
-Answer
+#### Answer
 </summary>
 
 Local truncation error of first step: $\tau\_1 = 0.1488$
@@ -24,7 +24,8 @@ Global truncation error: $e\_5 = 0.03955$
 </details>
 
 <details>
-<summary>Solution
+<summary>
+#### Solution
 </summary>
 Euler integration becomes:
 
@@ -40,10 +41,10 @@ $x(1.0) = 0.01024$
 
 Truncation error at $t=0$ is the difference between the exact and the calculated value at $t=0.2$:
 
-$\tau\_1 = |\hat{x}(0.2)-x(0.2)| = 0.4 - 1\cdot e^{-3\cdot 0.2} = 0.1488$
+$\tau\_1 = \|\hat{x}(0.2)-x(0.2)\| = 0.4 - 1\cdot e^{-3\cdot 0.2} = 0.1488$
 
 Global truncation error is the difference between the exact and the calculated value at $t=1$:
 
-$e\_5 = |\hat{x}(0.2)-x(0.2)| = 0.01024 - 1\cdot e^{-3\cdot 1} = 0.03955$
+$e\_5 = \|\hat{x}(0.2)-x(0.2)\| = 0.01024 - 1\cdot e^{-3\cdot 1} = 0.03955$
 
 </details>
