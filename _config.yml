@@ -49,3 +49,4 @@ navigation:
   - text: 12. Index Reduction
     url: ./indexreduction
   - text: 13. Algebraic Loops
+    url: ./algebraicloops
