@@ -15,7 +15,7 @@ $ y(t)=\sin(t)+\cos(t)$
 
 </details>
 
-{::nomarkdown}<details><summary><b>Solution</b></summary>{:/nomarkdown}
+{::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
 *Analytical solution*
 
 Semi-explicit DAE systems of index-1 has the form
