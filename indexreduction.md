@@ -8,7 +8,7 @@ $x(t)=\sin(t)$
 
 Perform an index reduction to convert the system into an equivalent *index-1 DAE system*, which is needed for numerical simulation.
 
-{::nomarkdown}<details><summary><b>Answer</b></summary>{:/nomarkdown}
+{::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 $\ddot{x}(t)+y(t) = \cos(t)$
 
 $ y(t)=\sin(t)+\cos(t)$
