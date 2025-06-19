@@ -12,6 +12,7 @@ Perform an index reduction to convert the system into an equivalent *index-1 DAE
 $\ddot{x}(t)+y(t) = \cos(t)$
 
 $ y(t)=\sin(t)+\cos(t)$
+
 </details>
 
 {::nomarkdown}<details><summary><b>Solution</b></summary>{:/nomarkdown}
