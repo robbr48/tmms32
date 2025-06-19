@@ -42,7 +42,7 @@ navigation:
     url: ./stabilityregion
   - text: 9. BLT Transform
     url: ./blttransform
-  - text: 10. State variables
+  - text: 10. State Vvariables
     url: ./statevariables
-  - text: 11. State-space formulation
+  - text: 11. State-space Representation
     url: ./statespace
