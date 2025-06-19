@@ -13,7 +13,7 @@ $\ddot{x}(t)+y(t) = \cos(t)$
 
 $ y(t)=\sin(t)+\cos(t)$
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
 
 {::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
 *Analytical solution*
@@ -59,5 +59,5 @@ This yields
     
  Which is an over-determined system, that can be simplified into the same answer as from the analytical solution above!
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
 
