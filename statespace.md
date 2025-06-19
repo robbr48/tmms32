@@ -33,8 +33,7 @@ The system has no direct feed-through.
 </details>
 
 <details>
-<summary>
-#### Solution
+<summary>{::nomarkdown}Solution{:/nomarkdown}
 </summary>
 
 The equation has only one state variable, $x$. However, it contains a second-order derivative with respect to time. State variables must have first-order derivatives. To solve this, we introduce as second state variable that is the derivative of the first one:
