@@ -1,4 +1,4 @@
-## 11. State-space Representation
+## 12. Index Reduction
 
 Consider the following DAE system:
 
