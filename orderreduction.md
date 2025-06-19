@@ -16,7 +16,7 @@ Under specific circumstances we can assume that $h_1\approx h_2$. \
 
 $\dot{z}=-\dfrac{K\rho g}{A_1}z-\dfrac{1}{\sqrt{2}A_1}q_{in}$
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
 
 {::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
 We can simplify the system and write it in matrix form:
@@ -46,7 +46,7 @@ This finally yields:
 $\dot{z}=-\dfrac{K\rho g}{A_1}z-\dfrac{1}{\sqrt{2}A_1}q_{in}$
 
 So we have reduced a second order ODE into a first order!
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
 <br>
 
 
