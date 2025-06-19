@@ -42,20 +42,24 @@ Differentiating the both equations once would yield an ODE system. Hence, the sy
 
 *Matlab solution*
 
-`syms x(t) y(t)
+```
+syms x(t) y(t)
 eqs = [diff(x(t),2) + y(t) == cos(t),...
        x(t) == sin(t)]
 vars = [x(t), y(t)];
 [eqs, vars]= reduceDifferentialOrder(eqs, vars);`
+```
 
 This yields
 
-`Dxtt(t) - cos(t) + y(t)
+```
+Dxtt(t) - cos(t) + y(t)
           x(t) - sin(t)
       Dxt(t) - Dxt21(t)
       Dxt21(t) - cos(t)
      Dxt21t(t) + sin(t)
-    Dxtt(t) - Dxt21t(t)`
+    Dxtt(t) - Dxt21t(t)
+```
     
  Which is an over-determined system, that can be simplified into the same answer as from the analytical solution above!
 

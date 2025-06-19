@@ -12,18 +12,13 @@ $\dot{h}_2=\dfrac{q_1-q_2}{A_2}$
 Under specific circumstances we can assume that $h_1\approx h_2$. \
 *Reduce the order of the equation system using projection-based reduction.*
 
-<details>
-<summary>
-Answer
-</summary>
+{::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 
 $\dot{z}=-\dfrac{K\rho g}{A_1}z-\dfrac{1}{\sqrt{2}A_1}q_{in}$
 
 </details>
 
-<details>
-<summary>Solution
-</summary>
+{::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
 We can simplify the system and write it in matrix form:
 
 $\mathbf{E}\begin{bmatrix}\dot{h}\_1 \\\ \dot{h}\_2\end{bmatrix}+\mathbf{A}\begin{bmatrix}h_1\\\h\_2\end{bmatrix}+\mathbf{B}\begin{bmatrix}q\_{in}\end{bmatrix}$

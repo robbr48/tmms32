@@ -6,19 +6,13 @@ $\begin{cases}x=y+z & (1) \\\ y=2 & (2) \\\ z=2-y & (3)\end{cases}$
 
 Perform a *BLT tranasform* to make the equations sequentially solvable.
 
-<details>
-<summary>
-#### Answer
-</summary>
+{::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 
 $\begin{cases}y=2 & (2) \\\ z=2-y & (3) \\\ x=y+z & (1)\end{cases}$
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
 
-<details>
-<summary>
-#### Solution
-</summary>
+{::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
 **Dependency matrix:**
 
 |         | **x** | **y** | **z** |
@@ -54,4 +48,4 @@ With dependency graph:
 
 No elements above diagonal, so the system is sequentially solvable!
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}

@@ -6,19 +6,13 @@ $\begin{bmatrix}1 & 0\\\0 & 0\end{bmatrix}\dot{x}+\begin{bmatrix}0 & -1\\\a & a\
 
 For which values of $a$ is the system solvable?
 
-<details>
-<summary>
-Answer
-</summary>
+{::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 
 $a\ne 0$
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
 
-<details>
-<summary>
-Solution
-</summary>
+{::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
 A first-order system on the form $\mathbf{A}x=\mathbf{B}$ is solvable if $\det(\mathbf{A})\ne 0$.
 
 We can rewrite our DAE to the same form by converting to Laplace:
@@ -30,7 +24,6 @@ $\begin{bmatrix}s & -1\\\a & a\end{bmatrix}x=\begin{bmatrix}1\\\0\end{bmatrix}u 
 $\det(\mathbf{A}) = \det\begin{bmatrix}s & -1\\\a & a\end{bmatrix} = a(s+1)$
 
 As can be seen, the system is solvable assuming $a\ne 0$.
-</details>
-<br>
+{::nomarkdown}</details>{:/nomarkdown}
 
 

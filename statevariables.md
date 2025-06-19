@@ -19,20 +19,14 @@ with the following variables:
 
 Identify the *state variables* of the system.
 
-<details>
-<summary>
-#### Answer
-</summary>
+{::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 
 $i(t)$ and $\omega(t)$
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
 
-<details>
-<summary>
-#### Solution
-</summary>
+{::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
 
 We need two state variables since we have two equations. Both $i(t)$ and $\omega(t)$ appear with first-order derivatives. Knowing $i(t)$ and $\omega(t)$ allows us to predict future system behavior for a given input.
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}

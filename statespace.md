@@ -15,10 +15,7 @@ where
 
 Rewrite the system in *state-space form*. Does the system have *direct feed-through*?
 
-<details>
-<summary>
-#### Answer
-</summary>
+{::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 
 $\begin{bmatrix}\dot{z}\_1 \\\ \dot{z}\_2\end{bmatrix} = \begin{bmatrix}0 & 1 \\\ -\dfrac{k}{m} & -\dfrac{c}{m}\end{bmatrix}\begin{bmatrix}z\_1 \\\ z\_2\end{bmatrix}+ \begin{bmatrix}0 \\\ \dfrac{1}{m}\end{bmatrix}u(t)$
 
@@ -30,7 +27,7 @@ where
 * $z_2 = \dot{x}(t)$
 
 The system has no direct feed-through.
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
 
 {::nomarkdown}<details><summary>Solution</summary>{:/nomarkdown}
 
@@ -61,4 +58,4 @@ $\begin{bmatrix}\dot{z}\_1 \\\ \dot{z}\_2\end{bmatrix} = \begin{bmatrix}0 & 1 \\
 $y = \begin{bmatrix}1 & 0\end{bmatrix}\begin{bmatrix}z\_1 \\\ z\_2\end{bmatrix} + 0\cdot u(t)$
 
 The output variable $y$ does not depend directly on input variable $u$, so there is *no direct feed-through*.
-</details>
+{::nomarkdown}</details>{:/nomarkdown}

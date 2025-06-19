@@ -12,21 +12,15 @@ The model is simulated from 0 to 1 seconds using forward Euler method with a ste
 
 Compue the *local truncation error* of the first step and the *global truncation error* at $t=1$.
 
-<details>
-<summary>
-#### Answer
-</summary>
+{::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 
 Local truncation error of first step: $\tau\_1 = 0.1488$
 
 Global truncation error: $e\_5 = 0.03955$
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
 
-<details>
-<summary>
-#### Solution
-</summary>
+{::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
 Euler integration becomes:
 
 $x\_{n+1} = x\_n + h\cdot(-3x\_n)$
@@ -47,4 +41,4 @@ Global truncation error is the difference between the exact and the calculated v
 
 $e\_5 = \|\hat{x}(0.2)-x(0.2)\| = 0.01024 - 1\cdot e^{-3\cdot 1} = 0.03955$
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}

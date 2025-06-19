@@ -8,20 +8,15 @@ Which of the following ODE systems are over-damped, under-damped or critically d
 
 3. $\begin{bmatrix}\dot{x}\_1 \\\ \dot{x}\_2\end{bmatrix} = \begin{bmatrix} -2 & 1 \\\ 1 & -2\end{bmatrix}\begin{bmatrix}x_1 \\\ x_2\end{bmatrix}$
 
-<details>
-<summary>
-Answer
-</summary>
+{::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 
 1. Over-damped
 2. Under-damped
 3. Critically damped
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
 
-<details>
-<summary>Solution
-</summary>
+{::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
 A system is over-damped if it has two real but distinct eigenvalues, under-damped if it has complex eigenvalues, and critically damped if it has only one eigenvalue.
 
 First system eigenvalues:
@@ -42,4 +37,4 @@ $(-2-\lambda)(-2-\lambda)-1=0 \Rightarrow (-2-\lambda)^2 = \lambda=-1, -3$
 
 Over-damped, because two distinct and real eigenvalues.
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}

@@ -2,21 +2,15 @@
 
 *Derive* expressions for the stability regions of the forward and backwards Euler methods.
 
-<details>
-<summary>
-#### Answer
-</summary>
+{::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 
 Forward Euler: $\|1+h\lambda\| < 1$
 
 Backwards Euler: $\|1-h\lambda\| > 1$
 
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
 
-<details>
-<summary>
-#### Solution
-</summary>
+{::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
 We will use the stability criterion
 
 $\|\dfrac{x\_{n+1}}{x\_n}\|<1 \quad (1)$
@@ -54,4 +48,4 @@ $\dfrac{x\_{n+1}}{x\_n}=\dfrac{1}{1-h\lambda} \quad (4)$
 $\|1-h\lambda\| > 1$
 
 <img src="assets/images/backwardseulerstability.png" width="300">
-</details>
+{::nomarkdown}</details>{:/nomarkdown}
