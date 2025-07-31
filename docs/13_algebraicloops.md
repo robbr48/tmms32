@@ -1,7 +1,7 @@
 ---
 title: 13. Algebraic Loops
 layout: default
-nav_order: 2
+nav_order: 13
 ---
 
 ## 13. Algebraic Loops

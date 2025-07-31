@@ -1,7 +1,7 @@
 ---
 title: 5. Damping
 layout: default
-nav_order: 2
+nav_order: 5
 ---
 
 ## 5. Damping

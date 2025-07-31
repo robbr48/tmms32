@@ -1,7 +1,7 @@
 ---
 title: 10. State Variables
 layout: default
-nav_order: 2
+nav_order: 10
 ---
 
 ## 10. State Variables

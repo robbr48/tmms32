@@ -1,7 +1,7 @@
 ---
 title: 12. Index Reduction
 layout: default
-nav_order: 2
+nav_order: 12
 ---
 
 ## 12. Index Reduction

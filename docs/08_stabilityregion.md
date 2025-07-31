@@ -1,7 +1,7 @@
 ---
 title: 8. Stability Region
 layout: default
-nav_order: 2
+nav_order: 8
 ---
 
 ## 8. Stability Region

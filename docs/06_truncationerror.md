@@ -1,7 +1,7 @@
 ---
 title: 6. Truncation Error
 layout: default
-nav_order: 2
+nav_order: 6
 ---
 
 ## 6. Truncation Error

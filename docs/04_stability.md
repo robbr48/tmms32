@@ -1,7 +1,7 @@
 ---
 title: 4. Stability
 layout: default
-nav_order: 2
+nav_order: 4
 ---
 
 ## 4. Stability

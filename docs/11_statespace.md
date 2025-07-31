@@ -1,7 +1,7 @@
 ---
 title: 11. State-space Representation
 layout: default
-nav_order: 2
+nav_order: 11
 ---
 
 ## 11. State-space Representation
