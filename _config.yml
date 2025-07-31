@@ -1,17 +1,12 @@
+title: Just the Docs Template
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-header_pages:
-  - linearity.md
-  - orderreduction.md
-  - solvability.md
-  - damping.md
-  - truncationerror.md
-  - errorestimation.md
-  - stabilityregion.md  
-theme: minima
 
 #theme: jekyll-theme-tactile
 
