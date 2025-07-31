@@ -1,6 +1,7 @@
 title: TMMS32
 description: A collection of examples for the course TMMS32
 theme: just-the-docs
+search_enabled: true
 
 #plugins:
 #  - jekyll-relative-links
