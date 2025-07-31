@@ -1,3 +1,10 @@
+---
+title: Order Reduction
+layout: default
+parent: Equation Systems
+nav_order: 1
+---
+
 ## 2. Order Reduction
 
 <img src="assets/images/tanks.png" width="500">

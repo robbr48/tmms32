@@ -1,7 +1,8 @@
 ---
 title: Linearity
 layout: default
-nav_order: 2
+parent: Equation Systems
+nav_order: 1
 ---
 
 ## 1. Linearity
