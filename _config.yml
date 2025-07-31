@@ -1,9 +1,9 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 
-plugins:
-  - jekyll-relative-links
+#plugins:
+#  - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
