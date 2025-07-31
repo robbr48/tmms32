@@ -1,3 +1,8 @@
+---
+title: Linearity
+nav_order: 2
+---
+
 ## 1. Linearity
 Which of he following ODE equations are linear?
 
