@@ -1,10 +1,10 @@
 ---
-title: 7. Truncation Error
+title: 7. Error Estimation
 layout: default
 nav_order: 2
 ---
 
-## 7. Truncation Error
+## 7. Error Estimation
 
 Consider the following ODE:
 

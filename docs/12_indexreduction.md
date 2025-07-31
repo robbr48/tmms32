@@ -1,5 +1,5 @@
 ---
-title: 2. Index Reduction
+title: 12. Index Reduction
 layout: default
 nav_order: 2
 ---
