@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 # TMMS32 
 ##Collection of examples
 
