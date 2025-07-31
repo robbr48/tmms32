@@ -3,17 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-  - linearity.md
-
 header_pages:
   - linearity.md
   - orderreduction.md
@@ -26,37 +15,37 @@ theme: minima
 
 #theme: jekyll-theme-tactile
 
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+#markdown: kramdown
+#kramdown:
+#  parse_block_html: true
 
-navigation:
-  - text: 1. Linearity
-    internal: true
-    url: ./linearity
-  - text: 2. Order Reduction
-    internal: true
-    url: ./orderreduction   
-  - text: 3. Solvability
-    internal: true
-    url: ./solvability
-  - text: 4. Stability
-    url: ./stability
-  - text: 5. Damping
-    url: ./damping
-  - text: 6. Truncation Error
-    url: ./truncationerror
-  - text: 7. Error Estimation
-    url: ./errorestimation
-  - text: 8. Stability Region
-    url: ./stabilityregion
-  - text: 9. BLT Transform
-    url: ./blttransform
-  - text: 10. State Variables
-    url: ./statevariables
-  - text: 11. State-space Representation
-    url: ./statespace
-  - text: 12. Index Reduction
-    url: ./indexreduction
-  - text: 13. Algebraic Loops
-    url: ./algebraicloops
+#navigation:
+#  - text: 1. Linearity
+#    internal: true
+#    url: ./linearity
+#  - text: 2. Order Reduction
+#    internal: true
+#    url: ./orderreduction   
+#  - text: 3. Solvability
+#    internal: true
+#    url: ./solvability
+#  - text: 4. Stability
+#    url: ./stability
+#  - text: 5. Damping
+#    url: ./damping
+#  - text: 6. Truncation Error
+#    url: ./truncationerror
+#  - text: 7. Error Estimation
+#    url: ./errorestimation
+#  - text: 8. Stability Region
+#    url: ./stabilityregion
+#  - text: 9. BLT Transform
+#    url: ./blttransform
+#  - text: 10. State Variables
+#    url: ./statevariables
+#  - text: 11. State-space Representation
+#    url: ./statespace
+#  - text: 12. Index Reduction
+#    url: ./indexreduction
+#  - text: 13. Algebraic Loops
+#    url: ./algebraicloops
