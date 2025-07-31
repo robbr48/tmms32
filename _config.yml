@@ -14,7 +14,17 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   - linearity.md
 
-theme: jekyll-theme-tactile
+header_pages:
+  - linearity.md
+  - orderreduction.md
+  - solvability.md
+  - damping.md
+  - truncationerror.md
+  - errorestimation.md
+  - stabilityregion.md  
+theme: minima
+
+#theme: jekyll-theme-tactile
 
 markdown: kramdown
 kramdown:
