@@ -6,7 +6,7 @@ nav_order: 2
 
 ## 2. Order Reduction
 
-<img src="assets/images/tanks.png" width="500">
+<img src="../assets/images/tanks.png" width="500">
 
 Water flows into a tank, which is connected to another tank equipped with an outlet, according to the figure. The connection between the tank and the outlet can be considered restrictors with laminar flow. Assume zero pressure after the outlet. The equations then becomes:
 
