@@ -1,8 +1,7 @@
 ---
 title: Order Reduction
 layout: default
-parent: Equation Systems
-nav_order: 1
+nav_order: 2
 ---
 
 ## 2. Order Reduction

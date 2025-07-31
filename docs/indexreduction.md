@@ -1,3 +1,9 @@
+---
+title: Index Reduction
+layout: default
+nav_order: 2
+---
+
 ## 12. Index Reduction
 
 Consider the following DAE system:

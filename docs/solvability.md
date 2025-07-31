@@ -1,3 +1,9 @@
+---
+title: Solvability
+layout: default
+nav_order: 2
+---
+
 ## 3. Solvability
 
 Consider the following DAE:
