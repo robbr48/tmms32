@@ -1,3 +1,9 @@
+---
+title: 5. Damping
+layout: default
+nav_order: 2
+---
+
 ## 5. Damping
 
 Which of the following ODE systems are over-damped, under-damped or critically damped?

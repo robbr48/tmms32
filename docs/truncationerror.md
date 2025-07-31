@@ -1,3 +1,9 @@
+---
+title: 6. Truncation Error
+layout: default
+nav_order: 2
+---
+
 ## 6. Truncation Error
 
 Consider the following ODE:

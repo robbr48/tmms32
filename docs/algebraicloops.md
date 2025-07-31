@@ -1,5 +1,5 @@
 ---
-title: Algebraic Loops
+title: 13. Algebraic Loops
 layout: default
 nav_order: 2
 ---

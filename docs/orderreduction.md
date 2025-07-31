@@ -1,5 +1,5 @@
 ---
-title: Order Reduction
+title: 2. Order Reduction
 layout: default
 nav_order: 2
 ---

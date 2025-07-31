@@ -1,3 +1,9 @@
+---
+title: 9. BLT Transform
+layout: default
+nav_order: 2
+---
+
 ## 9. BLT Transform
 
 Consider the following equation system:

@@ -1,5 +1,5 @@
 ---
-title: Solvability
+title: 3. Solvability
 layout: default
 nav_order: 2
 ---

@@ -1,3 +1,9 @@
+---
+title: 8. Stability Region
+layout: default
+nav_order: 2
+---
+
 ## 8. Stability Region
 
 *Derive* expressions for the stability regions of the forward and backwards Euler methods.

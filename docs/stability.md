@@ -1,3 +1,9 @@
+---
+title: 4. Stability
+layout: default
+nav_order: 2
+---
+
 ## 4. Stability
 
 The ODE system

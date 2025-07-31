@@ -1,3 +1,9 @@
+---
+title: 10. State Variables
+layout: default
+nav_order: 2
+---
+
 ## 10. State Variables
 
 Consider the simplified model of a DC motor driving a mechanical load. The electrical and mechanical dynamics of the system can be described by the following equations
