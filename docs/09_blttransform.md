@@ -34,7 +34,7 @@ Equation (3) depends on equation (2).
 
 Dependency graph:
 
-<img src="assets/images/dependencygraph.png" width="150">
+<img src="../assets/images/dependencygraph.png" width="150">
 
 Sort the equations topologically based on the graph. We start with equation (2), that does not depend on any other equation. 
 

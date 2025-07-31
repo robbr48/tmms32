@@ -39,7 +39,7 @@ $\dfrac{x\_{n+1}}{x\_n}=1+h\lambda \quad (4)$
 
 $\|1+h\lambda\| < 1$
 
-<img src="assets/images/forwardeulerstability.png" width="300">
+<img src="../assets/images/forwardeulerstability.png" width="300">
 
 **Backwards Euler:**
 
@@ -53,5 +53,5 @@ $\dfrac{x\_{n+1}}{x\_n}=\dfrac{1}{1-h\lambda} \quad (4)$
 
 $\|1-h\lambda\| > 1$
 
-<img src="assets/images/backwardseulerstability.png" width="300">
+<img src="../assets/images/backwardseulerstability.png" width="300">
 {::nomarkdown}</details>{:/nomarkdown}
