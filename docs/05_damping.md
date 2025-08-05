@@ -27,7 +27,7 @@ A system is over-damped if it has two real but distinct eigenvalues, under-dampe
 
 First system eigenvalues:
 
-$\mathbf{A}-\lambda\mathbf{I} = 0 \Rightarrow (-2-\lambda)(-4-\lambda)+3=0 \Rightarrow \lambda^2+6\lambda+5=0\Rightarrow \lambda=-3\pm\sqrt(2)$
+$\mathbf{A}-\lambda\mathbf{I} = 0 \Rightarrow (-2-\lambda)(-4-\lambda)+3=0 \Rightarrow \lambda^2+6\lambda+11=0\Rightarrow \lambda=-3\pm i\sqrt{2}$
 
 Under-damped, because eigenvalues are complex.
 
