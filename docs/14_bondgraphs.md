@@ -8,7 +8,7 @@ nav_order: 14
 
 A train of three wagons are being pulled by an ideal speed source according to the figure.
 
-<img src="../assets/images/bondgraphtrain.png" width="400">
+<img src="../assets/images/bondgraphtrain.png" width="100%" max-width="400px">
 
 There is a spring and damper between the first and second wagon, and only a spring between the second and the third.
 
