@@ -15,9 +15,9 @@ Derive a system of equation from the bond graph. What physical application do yo
 
 $m_1 \dot{v}_1 + k_1 (x_1+x_2) + b_1 (v_1+v_2) + m_1 g = 0$\
 $m_2 \dot{v}_2 + k_1 (x_1+x_2) + b_1 (v_1+v_2) + m_2 g - k_2 (x_2 + x) = 0$\
-v_1 = \dot{x_1}
-v_2 = \dot{x_2}
-v = \dot{x}
+$v_1 = \dot{x_1}$\
+$v_2 = \dot{x_2}$\
+$v = \dot{x}$
 
 {::nomarkdown}</details>{:/nomarkdown}
 
@@ -46,7 +46,8 @@ $v_{10} + v_{11} + v_{12} = 0$
 
 Then add one equation for each element (*"constitutive equations"*):
 
-$\mathrm{S}_\mathrm{e}\mathrm{:}m_1 g \rightarrow F_1 = m_1 g$\
+$\mathrm{S}_\mathrm{e}\mathrm{:}m_1 g \rightarrow F_1 = m_1 g$
+
 $\mathrm{I}\mathrm{:}m_1 \rightarrow  v_2 = \frac{1}{m_1} \int{F_2} dt$\
 $\mathrm{C}\mathrm{:}\dfrac{1}{k_1} \rightarrow  F_5 = k_1 \int{v_5} dt$\
 $\mathrm{R}\mathrm{:}\dfrac{1}{b_1} \rightarrow  F_6 = b_1 v_6$\
