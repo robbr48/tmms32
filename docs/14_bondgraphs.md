@@ -1,6 +1,12 @@
-## 6. Bond Graphs
+---
+title: 14. Bond Graphs (1)
+layout: default
+nav_order: 14
+---
 
-A train of three wagons are being pulled by an ideal speed source according to the figure.
+## Bond Graphs
+
+A train with three wagons are being pulled by an ideal speed source according to the figure.
 
 <img src="assets/images/bondgraphstability.png" width="300">
 
