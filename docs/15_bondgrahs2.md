@@ -48,12 +48,18 @@ Then add one equation for each element (*"constitutive equations"*):
 
 $\mathrm{S}_\mathrm{e}\mathrm{:}m_1 g \rightarrow F_1 = m_1 g$
 
-$\mathrm{I}\mathrm{:}m_1 \rightarrow  v_2 = \frac{1}{m_1} \int{F_2} dt$\
-$\mathrm{C}\mathrm{:}\dfrac{1}{k_1} \rightarrow  F_5 = k_1 \int{v_5} dt$\
-$\mathrm{R}\mathrm{:}\dfrac{1}{b_1} \rightarrow  F_6 = b_1 v_6$\
-$\mathrm{S}_\mathrm{e}\mathrm{:}m_2 g \rightarrow F_8 = m_2 g$\
-$\mathrm{I}\mathrm{:}m_2 \rightarrow  v_9 = \frac{1}{m_2} \int{F_9} dt$\
-$\mathrm{C}\mathrm{:}\dfrac{1}{k_2} \rightarrow  F_{11} = k_2 \int{v_{11}} dt$\
+$\mathrm{I}\mathrm{:}m_1 \rightarrow  v_2 = \frac{1}{m_1} \int{F_2} dt$
+
+$\mathrm{C}\mathrm{:}\dfrac{1}{k_1} \rightarrow  F_5 = k_1 \int{v_5} dt$
+
+$\mathrm{R}\mathrm{:}\dfrac{1}{b_1} \rightarrow  F_6 = b_1 v_6$
+
+$\mathrm{S}_\mathrm{e}\mathrm{:}m_2 g \rightarrow F_8 = m_2 g$
+
+$\mathrm{I}\mathrm{:}m_2 \rightarrow  v_9 = \frac{1}{m_2} \int{F_9} dt$
+
+$\mathrm{C}\mathrm{:}\dfrac{1}{k_2} \rightarrow  F_{11} = k_2 \int{v_{11}} dt$
+
 $\mathrm{S}_\mathrm{f}\mathrm{:}v \rightarrow v_{12} = v$
 
 We can finally simplify the system by eliminating redundant varibles. We also rewrite integrals into derivatives and introduce position variables.
