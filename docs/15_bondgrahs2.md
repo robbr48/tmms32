@@ -4,7 +4,7 @@ layout: default
 nav_order: 15
 ---
 
-## Bond Graphs
+## Bond Graphs (2)
 Consider the following bond graph:
 
 <img src="assets/images/bondgraphquartercar.png" width="300">
