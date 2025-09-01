@@ -7,7 +7,7 @@ nav_order: 15
 ## Bond Graphs (2)
 Consider the following bond graph:
 
-<img src="assets/images/bondgraphquartercar.png" width="300">
+<img src="../assets/images/bondgraphquartercar.png" width="300">
 
 Derive a system of equation from the bond graph. What physical application do you think it represents?
 
@@ -29,7 +29,7 @@ It appears to be a mechanical system, based on the $C$, $R$, $k$ and $mg$ variab
 
 First we need to number the nodes:
 
-<img src="assets/images/bondgraphnumbered.png" width="300">
+<img src="../assets/images/bondgraphnumbered.png" width="300">
 
 Then we start with the four junctions (*"constraint equations"*). Remember: 0-junctions represent *common effort*, while 1-junctiosn represent *common flow*:
 
