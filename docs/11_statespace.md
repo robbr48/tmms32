@@ -1,10 +1,11 @@
 ---
-title: 11. State-space Representation
+title: 1d. State-space Representation
+parent: 1. General Concepts
 layout: default
-nav_order: 11
+nav_order: 4
 ---
 
-## 11. State-space Representation
+## 1d. State-space Representation
 
 Consider a mass-spring-damper system modelled by a second-order differential equation:
 

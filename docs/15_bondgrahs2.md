@@ -1,10 +1,12 @@
 ---
-title: 15. Bond Graphs (2)
+title: 1h. Algebraic Loops
+parent: 1. General Concepts
 layout: default
-nav_order: 15
+nav_order: 8
 ---
 
-## Bond Graphs (2)
+## 1h. Bond Graphs (2)
+
 Consider the following bond graph:
 
 <img src="../assets/images/bondgraphquartercar.png" width="300">

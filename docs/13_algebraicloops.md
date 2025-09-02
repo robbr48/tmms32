@@ -1,10 +1,11 @@
 ---
-title: 13. Algebraic Loops
+title: 1f. Algebraic Loops
+parent: 1. General Concepts
 layout: default
-nav_order: 13
+nav_order: 6
 ---
 
-## 13. Algebraic Loops
+## 1f. Algebraic Loops
 
 A spring-loaded hydraulic valve is defined by the following equations:
 

@@ -1,10 +1,11 @@
 ---
-title: 10. State Variables
+title: 1c. State Variables
+parent: 1. General Concepts
 layout: default
-nav_order: 10
+nav_order: 3
 ---
 
-## 10. State Variables
+## 1c. State Variables
 
 Consider the simplified model of a DC motor driving a mechanical load. The electrical and mechanical dynamics of the system can be described by the following equations
 

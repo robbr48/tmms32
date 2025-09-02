@@ -5,7 +5,7 @@ layout: default
 nav_order: 1
 ---
 
-## 3. Solvability
+## 1a. Solvability
 
 Consider the following DAE:
 

@@ -1,10 +1,11 @@
 ---
-title: 12. Index Reduction
+title: 1e. Index Reduction
+parent: 1. General Concepts
 layout: default
-nav_order: 12
+nav_order: 5
 ---
 
-## 12. Index Reduction
+## 1e. Index Reduction
 
 Consider the following DAE system:
 

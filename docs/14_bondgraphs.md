@@ -1,10 +1,11 @@
 ---
-title: 14. Bond Graphs (1)
+title: 1g. Bond Graphs (1)
+parent: 1. General Concepts
 layout: default
-nav_order: 14
+nav_order: 7
 ---
 
-## 14. Bond Graphs (1)
+## 1g. Bond Graphs (1)
 
 A train with three wagons are being pulled by an ideal speed source according to the figure.
 
