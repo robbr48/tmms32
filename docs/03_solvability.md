@@ -1,7 +1,8 @@
 ---
-title: 3. Solvability
+title: 1a. Solvability
+parent: 1. General Concepts
 layout: default
-nav_order: 3
+nav_order: 1
 ---
 
 ## 3. Solvability
