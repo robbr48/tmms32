@@ -28,6 +28,8 @@ $q = 1.5\cdot 10^{-4}\ \mathrm{m^3}/\mathrm{s}$
 Residual function: 
 $\hat{q} = K_1(p_s-p)$
 
+In each iteration, we first solve the remaining system for the remaining variables, and then solve the residual function for the tearing variable. In this case the remaining system is only one equation and variable ($p$).
+
 First iteration:
 
 $p^{(1)} = \dfrac{\hat{q}}{K_2} = \dfrac{1.6\cdot 10^{-4}}{3\cdot 10^{-11}} = 5.33\cdot 10^6\ \mathrm{Pa}$\
