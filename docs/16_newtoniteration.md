@@ -12,7 +12,7 @@ $\dot{x}(t) = 20x(t)+x(t)^3$
 Integrate the equation using backwards Euler method with a step length of $h=0.01$ and a starting value of $x(0)=2$. Iterate three steps using Newton iteration.
 
 {::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
-x_{n+1} = 2.76393
+$x_{n+1} = 2.76393$
 
 {::nomarkdown}</details>{:/nomarkdown}
 
