@@ -1,10 +1,12 @@
 ---
-title: 17. Tearing
+title: 3b. Tearing
+parent: 3. Equation-based Modelling
 layout: default
-nav_order: 17
+nav_order: 2
 ---
 
-## Tearing
+## 3b. Tearing
+
 Two hydraulic orifices are connected in series, according to the figure. Assume laminar flow ($q=K\cdot \Delta p$). The supply pressure is $p_s=20\ \mathrm{MPa}$. The two orifices have laminar flow coefficients of $K_1=1\cdot 10^{-11}$ and $K_2=3\cdot 10^{-11}$, respectively.
 
 <img src="../assets/images/orifices.png" width="300">

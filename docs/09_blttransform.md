@@ -1,10 +1,11 @@
 ---
-title: 9. BLT Transform
+title: 3a. BLT Transform
+parent: 3. Equation-based Modelling
 layout: default
-nav_order: 9
+nav_order: 1
 ---
 
-## 9. BLT Transform
+## 3a. BLT Transform
 
 Consider the following equation system:
 

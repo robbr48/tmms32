@@ -1,10 +1,11 @@
 ---
-title: 2. Order Reduction
+title: 4b. Order Reduction
+parent: 4. Model Simplification
 layout: default
 nav_order: 2
 ---
 
-## 2. Order Reduction
+## 4b. Order Reduction
 
 <img src="../assets/images/tanks.png" width="500">
 

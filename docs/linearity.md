@@ -1,10 +1,12 @@
 ---
-title: 1. Linearity
+title: 4a. Linearity
+parent: 4. Model Simplification
 layout: default
 nav_order: 1
 ---
 
-## 1. Linearity
+## 4a. Linearity
+
 Which of he following ODE equations are linear?
 
 1. $2\dot{x}+10\sin{(x)} = 0$
