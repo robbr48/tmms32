@@ -1,5 +1,5 @@
 ---
-title: 1d. State-space Representation
+title: 1d. State-space Form
 parent: 1. General Concepts
 layout: default
 nav_order: 4

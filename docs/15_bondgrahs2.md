@@ -1,5 +1,5 @@
 ---
-title: 1h. Algebraic Loops
+title: 1h. Bond Graphs (2)
 parent: 1. General Concepts
 layout: default
 nav_order: 8
