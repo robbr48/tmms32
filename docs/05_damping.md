@@ -1,11 +1,11 @@
 ---
-title: 2a. Damping
+title: 1b. Damping
 parent: 1. General Concepts
 layout: default
 nav_order: 2
 ---
 
-## 2a. Damping
+## 1b. Damping
 
 Which of the following ODE systems are over-damped, under-damped or critically damped?
 

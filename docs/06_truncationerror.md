@@ -1,10 +1,12 @@
 ---
-title: 6. Truncation Error
+title: 2b. Truncation Error
+parent: 2. Numerical Integration
 layout: default
-nav_order: 6
+nav_order: 2
 ---
 
-## 6. Truncation Error
+
+## 2b. Truncation Error
 
 Consider the following ODE:
 

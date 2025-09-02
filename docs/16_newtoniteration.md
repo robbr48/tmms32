@@ -1,10 +1,12 @@
 ---
-title: 16. Newton Iteration
+title: 2e. Error Estimation
+parent: 2. Numerical Integration
 layout: default
-nav_order: 16
+nav_order: 5
 ---
 
-## Newton Iteration
+## 2e. Newton Iteration
+
 Consider the following differential equation:
 
 $\dot{x}(t) = 20x(t)+x(t)^3$

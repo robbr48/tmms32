@@ -1,10 +1,11 @@
 ---
-title: 8. Stability Region
+title: 2d. Stability Region
+parent: 2. Numerical Integration
 layout: default
-nav_order: 8
+nav_order: 4
 ---
 
-## 8. Stability Region
+## 2d. Stability Region
 
 *Derive* expressions for the stability regions of the forward and backwards Euler methods.
 

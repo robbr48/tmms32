@@ -1,10 +1,11 @@
 ---
-title: 4. Stability
+title: 2a. Stability
+parent: 2. Numerical Integration
 layout: default
-nav_order: 4
+nav_order: 1
 ---
 
-## 4. Stability
+## 2a. Stability
 
 The ODE system
 

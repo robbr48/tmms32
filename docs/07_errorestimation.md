@@ -1,10 +1,11 @@
 ---
-title: 7. Error Estimation
+title: 2c. Error Estimation
+parent: 2. Numerical Integration
 layout: default
-nav_order: 7
+nav_order: 3
 ---
 
-## 7. Error Estimation
+## 2c. Error Estimation
 
 Consider the following ODE:
 
