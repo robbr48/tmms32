@@ -9,7 +9,7 @@ nav_order: 1
 
 The ODE system
 
-$\dot{x} = \begin{bmatrix}-4 & 3 \\\ -1 & 0\end{bmatrix}x = 0$
+$\dot{x} = \begin{bmatrix}-4 & 3 \\\ -1 & 0\end{bmatrix}x$
 
 is simulated using the forward Euler method. 
 
