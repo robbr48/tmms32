@@ -9,7 +9,7 @@ nav_order: 1
 
 The ODE system
 
-$\dot{x} = \begin{bmatrix}-4 & 1 \\\ -1 & 0\end{bmatrix}x = 0$
+$\dot{x} = \begin{bmatrix}-4 & 3 \\\ -1 & 0\end{bmatrix}x = 0$
 
 is simulated using the forward Euler method. 
 
@@ -26,7 +26,9 @@ Compute the Eigenvalues:
 
 $\det(\mathbf{A}-\mathbf{I}\lambda) = 0 \Rightarrow$
 
-$\lambda^2 +4\lambda +1 = 0\Rightarrow \begin{cases}\lambda_1=-1\\\ \lambda_2=-3\end{cases}$
+$(-4-\lambda)(0-\lambda) - 3\cdot (-1) = 0 \Rightarrow $
+
+$\lambda^2 +4\lambda +3 = 0\Rightarrow \begin{cases}\lambda_1=-1\\\ \lambda_2=-3\end{cases}$
 
 Worst case is $\lambda=-3$, which yields $0<h<\dfrac{2}{3}$.
 {::nomarkdown}</details>{:/nomarkdown}
