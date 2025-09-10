@@ -18,7 +18,7 @@ $x(t) = x\_0e^{-3t}$
 
 The model is simulated from 0 to 1 seconds using forward Euler method with a step size of $h=0.2 \text{ s}$.
 
-Compue the *local truncation error* of the first step and the *global truncation error* at $t=1$.
+Compute the *local truncation error* of the first step and the *global truncation error* at $t=1$.
 
 {::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 
