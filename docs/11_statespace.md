@@ -41,7 +41,7 @@ The system has no direct feed-through.
 The equation has only one state variable, $x$. However, it contains a second-order derivative with respect to time. State variables must have first-order derivatives. To solve this, we introduce as second state variable that is the derivative of the first one:
 
 * $z_1 = x(t)$
-* $z_2 = \dot(t)$
+* $z_2 = \dot{x}(t)$
 
 The system then becomes:
 
