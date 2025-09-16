@@ -26,7 +26,7 @@ Euler integration:
 
 $x_{n+1} = x_n + h \dot{x}_{n+1} \Rightarrow$
 
-$x_{n+1} = x_n + h (20x+x_{n+1}^3)$
+$x_{n+1} = x_n + h (20x_{n+1}+x_{n+1}^3)$
 
 So we need to solve the equation:
 
