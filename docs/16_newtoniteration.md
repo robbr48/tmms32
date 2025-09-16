@@ -1,5 +1,5 @@
 ---
-title: 2e. Error Estimation
+title: 2e. Newton Iteration
 parent: 2. Numerical Integration
 layout: default
 nav_order: 5
