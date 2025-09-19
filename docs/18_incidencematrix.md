@@ -51,7 +51,7 @@ Note that derivatives and integrals also counts. Delayed variables, in the case 
 
 We do not know the order of variables, so we choose an arbitrary order: $\left[i, u_R, u_L, u_C\right]$.
 
-Equation 1 contains variables $i$ and $u_R$, but not $u_L$ and $u_C$. Hence, the first row becomes $[1 1 0 0]$.
+Equation 1 contains variables $i$ and $u_R$, but not $u_L$ and $u_C$. Hence, the first row becomes $\begin{bmatrix}1 & 1 & 0 & 0\end{bmatrix}$.
 
 Repeating for each equation finally yields:
 
