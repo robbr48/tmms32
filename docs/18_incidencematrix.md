@@ -31,14 +31,13 @@ $R,L,C$ = constants
 Construct the *incidence matrix* for the system.
 
 {::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
-\begin{tabular}{r | c c c c}
-& $i$ & $u_R $ u_L $ u_C \\
-\hline
-& eq1 & 1 & 1 & 0 & 0 \\
-& eq2 & 1 & 0 & 1 & 0 \\
-& eq3 & 1 & 0 & 0 & 1 \\
-& eq4 & 0 & 1 & 1 & 1 \\
-\end{tabular}
+
+|         | $i$   | $u_R$ | $u_L$ | $u_C$ |
+|---------|-------|-------|-------|-------|
+| **eq1** | $1$   | $1$   | $0$   | $0$   |
+| **eq2** | $1$   | $0$   | $1$   | $0$   |
+| **eq3** | $1$   | $0$   | $0$   | $1$   |
+| **eq4** | $0$   | $1$   | $1$   | $1$   |
 
 {::nomarkdown}</details>{:/nomarkdown}
 
@@ -55,15 +54,6 @@ We do not know the order of variables, so we choose an arbitrary order: $\left[i
 Equation 1 contains variables $i$ and $u_R$, but not $u_L$ and $u_C$. Hence, the first row becomes $[1 1 0 0]$.
 
 Repeating for each equation finally yields:
-
-$\begin{tabular}{r | c c c c}
-& $i$ & $u_R $ u_L $ u_C \\
-\hline
-& eq1 & 1 & 1 & 0 & 0 \\
-& eq2 & 1 & 0 & 1 & 0 \\
-& eq3 & 1 & 0 & 0 & 1 \\
-& eq4 & 0 & 1 & 1 & 1 \\
-\end{tabular}$
 
 |         | $i$   | $u_R$ | $u_L$ | $u_C$ |
 |---------|-------|-------|-------|-------|
