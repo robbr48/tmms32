@@ -17,10 +17,15 @@ $\mathrm{eq1: } u_S(t) - u_R(t) - u_L(t) - u_C(t) = 0$
 where 
 
 $i(t)$ = electric current
+
 $u_R(t)$ = voltage across resistor
+
 $u_L(t)$ = voltage across inductor
+
 $u_C(t)$ = voltage across capacitor
+
 $u_S(t)$ = voltage source (input)
+
 $R,L,C$ = constants
 
 Construct the *incidence matrix* for the system.
@@ -51,13 +56,20 @@ Equation 1 contains variables $i$ and $u_R$, but not $u_L$ and $u_C$. Hence, the
 
 Repeating for each equation finally yields:
 
-\begin{tabular}{r | c c c c}
+$\begin{tabular}{r | c c c c}
 & $i$ & $u_R $ u_L $ u_C \\
 \hline
 & eq1 & 1 & 1 & 0 & 0 \\
 & eq2 & 1 & 0 & 1 & 0 \\
 & eq3 & 1 & 0 & 0 & 1 \\
 & eq4 & 0 & 1 & 1 & 1 \\
-\end{tabular}
+\end{tabular}$
+
+|         | $i$   | $u_R$ | $u_L$ | $u_C$ |
+|---------|-------|-------|-------|-------|
+| **eq1** | $1$   | $1$   | $0$   | $0$   |
+| **eq2** | $1$   | $0$   | $1$   | $0$   |
+| **eq3** | $1$   | $0$   | $0$   | $1$   |
+| **eq4** | $0$   | $1$   | $1$   | $1$   |
 
 {::nomarkdown}</details>{:/nomarkdown}

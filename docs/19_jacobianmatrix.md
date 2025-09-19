@@ -17,21 +17,13 @@ $\mathrm{eq1: } u_S(t) - u_R(t) - u_L(t) - u_C(t) = 0$
 Construct the *Jacobian matrix* for the system.
 
 {::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
-\begin{tabular}{r | c c c c}
-& $i$ & $u_R $ u_L $ u_C \\
-\hline
-& eq1 & -R & 1 & 0 & 0 \\
-& eq2 & 0 & 0 & 1 & 0 \\
-& eq3 & 0 & 0 & 0 & 1 \\
-& eq4 & 0 & -1 & -1 & -1 \\
-\end{tabular}
 
 |         | $i$   | $u_R$ | $u_L$ | $u_C$ |
 |---------|-------|-------|-------|-------|
-| **eq1** | -R    | 1     | 0     | 0     |
-| **eq2** | 0     | 0     | 1     | 0     |
-| **eq3** | 0     | 0     | 0     | 1     |
-| **eq4** | 0     | -1    | -1    | -1    |
+| **eq1** | $-R$  | $1$   | $0$   | $0$   |
+| **eq2** | $0$   | $0$   | $1    | $0$   |
+| **eq3** | $0$   | $0$   | $0    | $1$   |
+| **eq4** | $0$   | $-1$  | $-1$  | $-1$  |
 
 {::nomarkdown}</details>{:/nomarkdown}
 
