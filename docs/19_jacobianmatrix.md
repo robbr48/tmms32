@@ -19,7 +19,7 @@ Construct the *Jacobian matrix* for the system.
 {::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 
 |         | $i$   | $u_R$ | $u_L$ | $u_C$ |
-|---------|-------|-------|-------|-------|
+|--------:|:-----:|:-----:|:-----:|:-----:|
 | **eq1** | $-R$  | $1$   | $0$   | $0$   |
 | **eq2** | $0$   | $0$   | $1    | $0$   |
 | **eq3** | $0$   | $0$   | $0    | $1$   |
