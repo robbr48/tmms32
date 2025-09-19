@@ -10,9 +10,9 @@ nav_order: 3
 Consider the following system of equations, describing an electric RLC circuit:
 
 $\mathrm{eq1: } u_R(t) - R i(t)$\
-$\mathrm{eq1: } u_L(t) - L \dfrac{d}{dt}i(t) = 0$\
-$\mathrm{eq1: } u_C(t) - \dfrac{1}{C}\int i(t) dt = 0$\
-$\mathrm{eq1: } u_S(t) - u_R(t) - u_L(t) - u_C(t) = 0$
+$\mathrm{eq2: } u_L(t) - L \dfrac{d}{dt}i(t) = 0$\
+$\mathrm{eq3: } u_C(t) - \dfrac{1}{C}\int i(t) dt = 0$\
+$\mathrm{eq4: } u_S(t) - u_R(t) - u_L(t) - u_C(t) = 0$
 
 where 
 
