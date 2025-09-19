@@ -46,7 +46,7 @@ $\dfrac{\partial}{\partial i}\left(u_R-R i\right) = -R$
 We populate now populate the Jacobian matrix by repeating this for each combination of equation and variable:
 
 |         | $i$   | $u_R$ | $u_L$ | $u_C$ |
-|---------|-------|-------|-------|-------|
+|--------:|:-----:|:-----:|:-----:|:-----:|
 | **eq1** | -R    | 1     | 0     | 0     |
 | **eq2** | 0     | 0     | 1     | 0     |
 | **eq3** | 0     | 0     | 0     | 1     |

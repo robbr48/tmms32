@@ -33,7 +33,7 @@ Construct the *incidence matrix* for the system.
 {::nomarkdown}<details><summary><strong>Answer</strong></summary>{:/nomarkdown}
 
 |         | $i$   | $u_R$ | $u_L$ | $u_C$ |
-|---------|-------|-------|-------|-------|
+|--------:|:-----:|:-----:|:-----:|:-----:|
 | **eq1** | $1$   | $1$   | $0$   | $0$   |
 | **eq2** | $1$   | $0$   | $1$   | $0$   |
 | **eq3** | $1$   | $0$   | $0$   | $1$   |
@@ -56,7 +56,7 @@ Equation 1 contains variables $i$ and $u_R$, but not $u_L$ and $u_C$. Hence, the
 Repeating for each equation finally yields:
 
 |         | $i$   | $u_R$ | $u_L$ | $u_C$ |
-|---------|-------|-------|-------|-------|
+|--------:|:-----:|:-----:|:-----:|:-----:|
 | **eq1** | $1$   | $1$   | $0$   | $0$   |
 | **eq2** | $1$   | $0$   | $1$   | $0$   |
 | **eq3** | $1$   | $0$   | $0$   | $1$   |
