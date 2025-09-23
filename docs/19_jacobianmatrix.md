@@ -9,10 +9,10 @@ nav_order: 4
 
 Consider the same system of equations as in the previous task:
 
-$\mathrm{eq1: } u_R(t) - R i(t)$\
-$\mathrm{eq2: } u_L(t) - L \dfrac{d}{dt}i(t) = 0$\
-$\mathrm{eq3: } u_C(t) - \dfrac{1}{C}\int i(t) dt = 0$\
-$\mathrm{eq4: } u_S(t) - u_R(t) - u_L(t) - u_C(t) = 0$
+$\mathrm{eq1\colon }\enspace u_R(t) - R i(t)$\
+$\mathrm{eq2\colon }\enspace  u_L(t) - L \dfrac{d}{dt}i(t) = 0$\
+$\mathrm{eq3\colon }\enspace  u_C(t) - \dfrac{1}{C}\int i(t) dt = 0$\
+$\mathrm{eq4\colon }\enspace  u_S(t) - u_R(t) - u_L(t) - u_C(t) = 0$
 
 Construct the *Jacobian matrix* for the system.
 
