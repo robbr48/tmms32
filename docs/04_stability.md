@@ -20,7 +20,7 @@ $0<h<\dfrac{2}{3}$
 {::nomarkdown}</details>{:/nomarkdown}
 
 {::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
-Forward Euler is stable if $|1-h\lambda|<1$, where $\lambda$ is the worst-case eigenvalue of the system.
+Forward Euler is stable if $|1+h\lambda|<1$, where $\lambda$ is the worst-case eigenvalue of the system.
 
 Compute the Eigenvalues:
 
@@ -30,6 +30,12 @@ $(-4-\lambda)(0-\lambda) - 3\cdot (-1) = 0 \Rightarrow $
 
 $\lambda^2 +4\lambda +3 = 0\Rightarrow \begin{cases}\lambda_1=-1\\\ \lambda_2=-3\end{cases}$
 
-Worst case is $\lambda=-3$, which yields $0<h<\dfrac{2}{3}$.
+Worst case is $\lambda=-3$. We need to solve the inequality
+
+$|1-3h| < 1 \Leftrightarrow -1 < 1-3h < 1$
+
+which yields 
+
+$0<h<\dfrac{2}{3}$.
 {::nomarkdown}</details>{:/nomarkdown}
 
