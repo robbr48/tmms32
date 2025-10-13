@@ -32,7 +32,7 @@ $\lambda^2 +4\lambda +3 = 0\Rightarrow \begin{cases}\lambda_1=-1\\\ \lambda_2=-3
 
 Worst case is $\lambda=-3$. We need to solve the inequality
 
-$|1-3h| < 1 \Leftrightarrow -1 < 1-3h < 1$
+$\lvert 1-3h\rvert < 1 \Leftrightarrow -1 < 1-3h < 1$
 
 which yields 
 
