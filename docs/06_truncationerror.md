@@ -47,6 +47,6 @@ $\tau\_1 = \|\hat{x}(0.2)-x(0.2)\| = 0.4 - 1\cdot e^{-3\cdot 0.2} = 0.1488$
 
 Global truncation error is the difference between the exact and the calculated value at $t=1$:
 
-$e\_5 = \|\hat{x}(0.2)-x(0.2)\| = 0.01024 - 1\cdot e^{-3\cdot 1} = 0.03955$
+$e\_5 = \|\hat{x}(1)-x(1)\| = 0.01024 - 1\cdot e^{-3\cdot 1} = 0.03955$
 
 {::nomarkdown}</details>{:/nomarkdown}
