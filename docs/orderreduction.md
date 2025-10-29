@@ -13,7 +13,7 @@ Water flows into a tank, which is connected to another tank equipped with an out
 
 $q_1=K(\rho g h_1 - \rho g h_2)$\
 $q_2=K\rho g h_2$\
-$\dot{h}_1=\dfrac{q_{in}-q_1}{A_1}$\
+$\dot{h}\_1=\dfrac{q_{in}-q_1}{A_1}$\
 $\dot{h}_2=\dfrac{q_1-q_2}{A_2}$
 
 Under specific circumstances we can assume that $h_2\approx \dfrac{h_1}{2}$. \
@@ -28,7 +28,7 @@ $\dot{z}=-\dfrac{K\rho g}{2A_2}z-\dfrac{1}{\sqrt{2}A_1}q_{in}$
 {::nomarkdown}<details><summary><strong>Solution</strong></summary>{:/nomarkdown}
 We can simplify the system and write it in matrix form:
 
-$\mathbf{E}\begin{bmatrix}\dot{h}_1 \\\ \dot{h}_2\end{bmatrix}+\mathbf{A}\begin{bmatrix}h_1\\h_2\end{bmatrix}+\mathbf{B}\begin{bmatrix}q\_{in}\end{bmatrix}$
+$\mathbf{E}\begin{bmatrix}\dot{h}_1 \\\ \dot{h}_2\end{bmatrix}+\mathbf{A}\begin{bmatrix}h_1\\\h_2\end{bmatrix}+\mathbf{B}\begin{bmatrix}q\_{in}\end{bmatrix}$
 
 where
 
@@ -40,9 +40,9 @@ $\mathbf{B} = \begin{bmatrix}\dfrac{1}{A_1}\\\ 0\end{bmatrix}$
 
 Note that $\mathbf{E}$ is not singular, so this is an ODE and not a DAE system. Introduce coordinate reduction matrix $\mathbf{V}$:
 
-$\begin{bmatrix}h_1\\ h_2\end{bmatrix}\approx\mathbf{V}z,\quad \mathbf{V}\in\mathbb{R}^{2\times 1}$
+$\begin{bmatrix}h_1\\\h_2\end{bmatrix}\approx\mathbf{V}z,\quad \mathbf{V}\in\mathbb{R}^{2\times 1}$
 
-Assuming $h_1\approx h_2 \Rightarrow \mathbf{V}=\dfrac{1}{\sqrt{2}}\begin{bmatrix}1\\ 1\end{bmatrix}$
+Assuming $h_1\approx h_2 \Rightarrow \mathbf{V}=\dfrac{1}{\sqrt{2}}\begin{bmatrix}1\\\1\end{bmatrix}$
 
 Project original system onto reduced coordinates:
 
